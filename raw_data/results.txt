@@ -1,0 +1,3600 @@
+2012, Swimming, Netherlands, gold, 1
+2008, Swimming, Japan, silver, 3
+2016, Volleyball, Germany, silver, 1
+2004, Tennis, Finland, gold, 6
+2012, Tennis, Sweden, bronze, 1
+2016, Tennis, China, silver, 6
+2016, Athletics, Norway, bronze, 0
+2004, Rowing, China, bronze, 0
+2016, Cycling, Russia, gold, 3
+2012, Volleyball, Denemark, silver, 6
+2004, Synchronized Swimming, Japan, bronze, 5
+2012, Football / Soccer, Czechoslovakia, bronze, 2
+2016, Football / Soccer, Russia, silver, 5
+8, Gymnastics, Bulgaria, silver, 3
+2004, Tennis, Austria, bronze, 6
+2004, Football / Soccer, Soviet Union, silver, 2
+2008, Athletics, Canada, bronze, 0
+2016, Gymnastics, Bulgaria, gold, 3
+2008, Tennis, Belgium, silver, 6
+2008, Gymnastics, Sweden, gold, 1
+2016, Rowing, United States, s, 0
+2008, Gymnastics, Germany, gold, 6
+2016, Tennis, Australia, silver, 2
+2004, Cycling, Norway, bronze, 3
+2004, Swimming, China, silver, 5
+2004, Gymnastics, Sweden, bronze, 0
+212, Tennis, Austria, bronze, 1
+2008, Rowing, Romania, silver, 2
+2016, Football / Soccer, Finland, bronze, 0
+2016, Gymnastics, Czechoslovakia, gold, 2
+2012, Athletics, Austria, gold, 5
+2004, Tennis, East Germany, silver, 1
+2012, Rowing, Denemark, silver, 1
+2012, Rowing, Bulgaria, silver, 5
+2004, Athletics, China, bronze, 3
+2016, Gymnastics, West Germany, bronze, 2
+2004, Football / Soccer, South Korea, bronze, 0
+2012, Rowing, Sweden, silver, 0
+2008, Swimming, Austria, g, 3
+2004, Volleyball, Finland, silver, 4
+2012, Synchronized Swimming, Great Britain, g, 0
+2012, Cycling, Czechoslovakia, silver, 5
+2012, Volleyball, Austria, gold, 5
+2016, Cycling, Belgium, gold, 6
+2008, Cycling, United States, bronze, 0
+2008, Modern Pentathlon, Denemark, gold, 5
+2004, Rowing, Great Britain, silver, 6
+2004, Football / Soccer, Denemark, gold, 6
+2012, Tennis, Hungary, silver, 1
+2008, Football / Soccer, Romania, silver, 5
+2004, Synchronized Swimming, Russia, bronze, 0
+2016, Rowing, Finland, bronze, 1
+2004, Cycling, Canada, silver, 0
+2016, Football / Soccer, Belgium, silver, 4
+2004, Synchronized Swimming, Romania, bronze, 6
+2008, Tennis, Netherlands, silver, 4
+2012, Gymnastics, Soviet Union, bronze, 0
+2016, Swimming, Denemark, gold, 2
+2008, Volleyball, Belgium, gold, 2
+2004, Swimming, East Germany, silver, 2
+2008, Rowing, Soviet Union, silver, 0
+2008, Synchronized Swimming, Commonwealth of Independent States, gold, 2
+2012, Modern Pentathlon, Great Britain, silver, 0
+2012, Swimming, South Korea, gold, 1
+2008, Volleyball, Russia, silver, 4
+2016, Rowing, Australia, silver, 5
+2008, Synchronized Swimming, United States, gold, 2
+2012, Swimming, Austria, gold, 4
+2012, Volleyball, Belgium, gold, 4
+2016, Modern Pentathlon, Italy, silver, 1
+2004, Swimming, Belgium, gold, 3
+2008, Gymnastics, Romania, silver, 1
+2016, Tennis, Finland, silver, 4
+2012, Gymnastics, Finland, silver, 5
+2008, Football / Soccer, Norway, gold, 3
+2016, Tennis, Soviet Union, silver, 0
+2008, Cycling, Cuba, silver, 3
+2016, Cycling, China, bronze, 4
+2004, Volleyball, Hungary, bronze, 3
+2004, Cycling, Denemark, gold, 5
+2008, Rowing, Switzerland, silver, 2
+2004, Athletics, Denemark, gold, 1
+2008, Synchronized Swimming, Finland, silver, 6
+2008, Rowing, Finland, bronze, 1
+4, Synchronized Swimming, China, bronze, 2
+2008, Cycling, Russia, g, 1
+2004, Volleyball, South Korea, gold, 5
+2016, Football / Soccer, Commonwealth of Independent States, gold, 6
+2008, Athletics, Switzerland, silver, 2
+2008, Volleyball, Norway, gold, 4
+2008, Cycling, Australia, silver, 3
+2004, Modern Pentathlon, West Germany, silver, 6
+2012, Football / Soccer, South Korea, g, 6
+2016, Tennis, West Germany, bronze, 3
+2004, Rowing, Cuba, bronze, 3
+2004, Gymnastics, Great Britain, silver, 6
+2008, Football / Soccer, Australia, bronze, 4
+2008, Tennis, Australia, gold, 2
+2004, Synchronized Swimming, Switzerland, silver, 6
+2016, Cycling, Romania, silver, 4
+2012, Athletics, France, gold, 3
+2004, Tennis, Italy, bronze, 3
+2016, Football / Soccer, Turkey, gold, 0
+2004, Synchronized Swimming, Romania, silver, 2
+2012, Synchronized Swimming, Sweden, gold, 3
+2012, Volleyball, Australia, silver, 0
+2008, Synchronized Swimming, Belgium, gold, 0
+2016, Football / Soccer, East Germany, silver, 0
+2016, Swimming, Netherlands, bronze, 1
+2012, Volleyball, Germany, gold, 1
+2016, Modern Pentathlon, Finland, gold, 5
+2008, Synchronized Swimming, Switzerland, bronze, 0
+2016, Volleyball, France, silver, 0
+2012, Modern Pentathlon, Great Britain, gold, 5
+2012, Cycling, Denemark, bronze, 3
+2016, Tennis, Russia, gold, 0
+2016, Volleyball, Soviet Union, gold, 5
+2004, Rowing, Romania, bronze, 0
+2008, Swimming, Netherlands, silver, 3
+2016, Swimming, South Korea, silver, 6
+2016, Swimming, Great Britain, gold, 6
+2008, Volleyball, Bulgaria, bronze, 6
+2008, Swimming, Switzerland, bronze, 1
+2016, Cycling, Switzerland, silver, 6
+2004, Rowing, Japan, gold, 6
+2008, Swimming, Norway, bronze, 5
+2012, Athletics, Finland, silver, 4
+2004, Modern Pentathlon, Netherlands, silver, 3
+2004, Synchronized Swimming, East Germany, bronze, 4
+2004, Swimming, Switzerland, bronze, 0
+2016, Synchronized Swimming, Belgium, gold, 5
+2004, Modern Pentathlon, Canada, bronze, 2
+2016, Gymnastics, Romania, gold, 0
+2008, Cycling, Canada, bronze, 1
+2004, Gymnastics, Norway, bronze, 1
+2012, Athletics, Turkey, gold, 5
+2004, Modern Pentathlon, Finland, bronze, 3
+2004, Tennis, Australia, bronze, 4
+2012, Rowing, Germany, gold, 6
+2008, Athletics, China, gold, 6
+2004, Rowing, Turkey, silver, 3
+2012, Synchronized Swimming, Sweden, silver, 0
+2012, Rowing, Great Britain, bronze, 3
+2008, Swimming, Australia, bronze, 6
+2012, Rowing, Soviet Union, s, 4
+2012, Rowing, Great Britain, gold, 2
+2004, Tennis, Turkey, silver, 6
+2004, Football / Soccer, Japan, silver, 3
+2004, Swimming, Czechoslovakia, gold, 5
+2004, Swimming, East Germany, bronze, 4
+2004, Athletics, Germany, silver, 0
+2016, Football / Soccer, Switzerland, silver, 0
+2004, Swimming, Australia, bronze, 4
+2004, Volleyball, Russia, silver, 2
+2008, Volleyball, Finland, bronze, 5
+2016, Synchronized Swimming, Japan, silver, 2
+2016, Tennis, Turkey, bronze, 4
+2008, Rowing, Norway, gold, 6
+2008, Synchronized Swimming, East Germany, silver, 4
+2012, Modern Pentathlon, Bulgaria, silver, 6
+2012, Modern Pentathlon, East Germany, bronze, 6
+2004, Tennis, Japan, silver, 3
+2012, Volleyball, Germany, silver, 5
+2016, Synchronized Swimming, China, silver, 1
+2008, Cycling, United States, silver, 6
+2008, Synchronized Swimming, South Korea, gold, 1
+2008, Athletics, Norway, gold, 1
+2004, Cycling, Switzerland, gold, 0
+2004, Synchronized Swimming, Commonwealth of Independent States, gold, 2
+2004, Modern Pentathlon, Romania, bronze, 5
+2004, Athletics, Cuba, bronze, 0
+2016, Football / Soccer, Japan, gold, 0
+2016, Volleyball, Norway, gold, 2
+2016, Swimming, Switzerland, bronze, 5
+2012, Gymnastics, Germany, bronze, 2
+2008, Synchronized Swimming, France, silver, 4
+2004, Swimming, Finland, bronze, 3
+2012, Tennis, West Germany, gold, 3
+2004, Football / Soccer, South Korea, silver, 4
+2008, Tennis, Soviet Union, silver, 3
+2008, Swimming, Czechoslovakia, silver, 0
+2012, Athletics, Switzerland, bronze, 2
+2004, Modern Pentathlon, China, silver, 3
+2016, Tennis, Germany, gold, 0
+2016, Gymnastics, Sweden, gold, 3
+2016, Swimming, Norway, bronze, 6
+2012, Tennis, Austria, silver, 2
+2008, Tennis, Finland, silver, 1
+2016, Tennis, Japan, gold, 6
+2016, Gymnastics, Sweden, silver, 1
+2016, Rowing, Sweden, silver, 3
+2016, Swimming, Netherlands, gold, 6
+212, Football / Soccer, Bulgaria, gold, 2
+2012, Modern Pentathlon, Switzerland, bronze, 3
+2016, Synchronized Swimming, Norway, gold, 1
+2016, Volleyball, Italy, silver, 1
+2004, Synchronized Swimming, Sweden, bronze, 4
+2008, Synchronized Swimming, Italy, silver, 1
+2008, Athletics, Russia, silver, 4
+2008, Football / Soccer, Bulgaria, gold, 2
+2004, Football / Soccer, Cuba, silver, 4
+2008, Synchronized Swimming, Germany, silver, 6
+2016, Synchronized Swimming, Belgium, silver, 2
+2004, Tennis, Finland, bronze, 2
+2016, Football / Soccer, Poland, gold, 6
+2008, Tennis, China, silver, 1
+2004, Athletics, Austria, bronze, 3
+2016, Athletics, Soviet Union, silver, 4
+8, Modern Pentathlon, Italy, silver, 1
+2016, Modern Pentathlon, France, gold, 2
+2008, Swimming, Sweden, b, 1
+2016, Rowing, West Germany, bronze, 1
+2012, Modern Pentathlon, Great Britain, bronze, 6
+2016, Synchronized Swimming, Denemark, silver, 6
+2008, Cycling, Soviet Union, bronze, 3
+2012, Swimming, Japan, silver, 6
+2012, Athletics, Romania, silver, 2
+2008, Modern Pentathlon, Great Britain, silver, 4
+2008, Swimming, Soviet Union, bronze, 2
+2016, Volleyball, Finland, gold, 1
+2004, Football / Soccer, Czechoslovakia, silver, 3
+2008, Tennis, Great Britain, gold, 2
+2012, Swimming, Austria, silver, 6
+2012, Modern Pentathlon, Finland, silver, 4
+2016, Swimming, West Germany, bronze, 5
+2004, Swimming, Switzerland, silver, 2
+2004, Swimming, Denemark, gold, 6
+2012, Gymnastics, Norway, silver, 2
+2012, Rowing, Italy, bronze, 6
+2004, Volleyball, Switzerland, bronze, 5
+2004, Gymnastics, Australia, bronze, 0
+2016, Swimming, France, gold, 4
+2016, Cycling, Finland, silver, 0
+2008, Athletics, France, silver, 3
+2008, Volleyball, Denemark, bronze, 1
+2016, Synchronized Swimming, Germany, g, 2
+2004, Cycling, Hungary, gold, 1
+2012, Gymnastics, Netherlands, silver, 6
+2012, Synchronized Swimming, Commonwealth of Independent States, gold, 2
+2012, Swimming, France, bronze, 3
+2004, Volleyball, Switzerland, gold, 6
+2004, Rowing, Poland, bronze, 5
+2004, Swimming, Australia, silver, 5
+2016, Athletics, United States, bronze, 1
+2012, Athletics, Czechoslovakia, bronze, 2
+2016, Volleyball, Australia, silver, 4
+2012, Synchronized Swimming, China, silver, 6
+2004, Athletics, Canada, gold, 4
+2004, Tennis, Belgium, bronze, 2
+2012, Gymnastics, Canada, bronze, 0
+2008, Athletics, France, gold, 5
+2016, Athletics, Japan, bronze, 0
+2004, Swimming, Romania, gold, 1
+2016, Swimming, Sweden, silver, 4
+2016, Synchronized Swimming, Czechoslovakia, bronze, 4
+2008, Rowing, South Korea, silver, 5
+2004, Gymnastics, Russia, bronze, 0
+2008, Rowing, Austria, silver, 5
+2004, Cycling, Japan, bronze, 2
+2012, Rowing, Hungary, silver, 0
+2004, Swimming, Denemark, silver, 2
+2004, Gymnastics, Australia, silver, 3
+2016, Tennis, Australia, bronze, 4
+2004, Gymnastics, France, gold, 1
+2016, Gymnastics, Denemark, silver, 3
+2016, Rowing, Great Britain, silver, 5
+2004, Modern Pentathlon, Turkey, bronze, 4
+2012, Modern Pentathlon, Soviet Union, silver, 0
+2008, Modern Pentathlon, Commonwealth of Independent States, gold, 4
+2016, Athletics, Germany, gold, 0
+2012, Swimming, Germany, bronze, 1
+2008, Rowing, Bulgaria, bronze, 1
+2004, Cycling, Russia, silver, 3
+2016, Synchronized Swimming, Russia, silver, 3
+2008, Cycling, Great Britain, bronze, 0
+2012, Volleyball, Soviet Union, silver, 0
+2004, Swimming, Japan, silver, 1
+2004, Swimming, Great Britain, bronze, 4
+212, Tennis, Belgium, bronze, 1
+2008, Football / Soccer, Norway, s, 2
+2008, Football / Soccer, Netherlands, silver, 2
+2008, Football / Soccer, East Germany, bronze, 6
+2004, Swimming, Switzerland, gold, 1
+2004, Synchronized Swimming, Netherlands, gold, 5
+2004, Athletics, Bulgaria, gold, 5
+2004, Tennis, Hungary, gold, 5
+2012, Synchronized Swimming, Austria, silver, 5
+2008, Volleyball, China, silver, 1
+2008, Cycling, Austria, silver, 3
+2012, Gymnastics, Belgium, silver, 2
+2016, Cycling, Norway, bronze, 1
+2008, Gymnastics, China, gold, 0
+2008, Gymnastics, Netherlands, bronze, 2
+2008, Tennis, Canada, gold, 1
+2016, Football / Soccer, Bulgaria, silver, 4
+2004, Athletics, Cuba, gold, 6
+2004, Cycling, Australia, gold, 4
+2004, Gymnastics, Sweden, gold, 5
+12, Football / Soccer, Sweden, silver, 3
+2016, Athletics, France, bronze, 6
+2016, Modern Pentathlon, Sweden, silver, 2
+2004, Athletics, Belgium, gold, 4
+2016, Swimming, Romania, bronze, 3
+2004, Tennis, Bulgaria, bronze, 1
+2016, Cycling, Turkey, silver, 5
+2016, Synchronized Swimming, Soviet Union, silver, 1
+2008, Tennis, Russia, gold, 6
+2008, Modern Pentathlon, France, silver, 1
+2016, Gymnastics, Commonwealth of Independent States, silver, 3
+2016, Modern Pentathlon, Australia, bronze, 5
+2016, Tennis, South Korea, gold, 5
+2008, Tennis, East Germany, silver, 6
+2012, Modern Pentathlon, Russia, silver, 6
+2016, Modern Pentathlon, Bulgaria, silver, 3
+2016, Modern Pentathlon, Cuba, gold, 5
+2004, Volleyball, United States, silver, 2
+2004, Football / Soccer, Italy, gold, 6
+2004, Volleyball, Canada, bronze, 1
+2008, Volleyball, Germany, bronze, 0
+2004, Volleyball, Russia, gold, 2
+2004, Modern Pentathlon, West Germany, bronze, 3
+2012, Synchronized Swimming, Great Britain, bronze, 3
+2012, Cycling, Poland, gold, 2
+2012, Synchronized Swimming, Australia, bronze, 0
+2008, Athletics, Belgium, silver, 1
+2012, Football / Soccer, Denemark, silver, 3
+2012, Modern Pentathlon, Italy, silver, 3
+2016, Volleyball, South Korea, bronze, 3
+2008, Gymnastics, Australia, gold, 6
+2008, Football / Soccer, Switzerland, gold, 4
+2008, Gymnastics, Denemark, silver, 3
+2004, Tennis, Netherlands, silver, 1
+2004, Modern Pentathlon, Finland, gold, 2
+2008, Volleyball, United States, gold, 3
+2004, Rowing, Cuba, gold, 2
+2012, Rowing, United States, bronze, 3
+2004, Cycling, Sweden, gold, 2
+2012, Modern Pentathlon, Finland, gold, 5
+2008, Athletics, Turkey, silver, 5
+2012, Rowing, Russia, silver, 3
+2008, Modern Pentathlon, China, silver, 3
+2008, Tennis, Canada, silver, 5
+2016, Football / Soccer, Romania, gold, 4
+2008, Volleyball, Poland, silver, 2
+2012, Modern Pentathlon, Sweden, silver, 3
+2004, Volleyball, Netherlands, gold, 5
+2004, Cycling, Romania, gold, 4
+2004, Tennis, Commonwealth of Independent States, silver, 5
+2012, Football / Soccer, Austria, silver, 4
+2008, Gymnastics, Poland, silver, 1
+2016, Tennis, Commonwealth of Independent States, silver, 4
+2004, Modern Pentathlon, East Germany, silver, 6
+2016, Football / Soccer, Norway, bronze, 5
+2008, Gymnastics, Italy, bronze, 2
+2016, Synchronized Swimming, Hungary, b, 5
+2004, Volleyball, Sweden, silver, 4
+2008, Volleyball, East Germany, bronze, 4
+2004, Rowing, Canada, silver, 2
+2012, Gymnastics, Austria, bronze, 1
+2012, Rowing, Commonwealth of Independent States, gold, 3
+2012, Tennis, Great Britain, gold, 5
+2004, Swimming, Germany, gold, 3
+2016, Tennis, Cuba, g, 3
+2008, Volleyball, Canada, bronze, 3
+2012, Rowing, South Korea, bronze, 2
+2004, Gymnastics, Denemark, bronze, 6
+2008, Football / Soccer, France, silver, 5
+2016, Cycling, Denemark, silver, 4
+2012, Football / Soccer, Great Britain, silver, 1
+2016, Gymnastics, Soviet Union, bronze, 6
+2016, Football / Soccer, Bulgaria, bronze, 3
+2008, Swimming, Netherlands, bronze, 4
+2008, Swimming, Austria, silver, 1
+2016, Athletics, France, silver, 1
+2008, Synchronized Swimming, Poland, gold, 2
+2016, Rowing, Belgium, gold, 2
+2008, Synchronized Swimming, Commonwealth of Independent States, bronze, 6
+2012, Gymnastics, Japan, silver, 5
+2016, Athletics, Belgium, silver, 2
+2016, Tennis, Belgium, gold, 1
+2008, Gymnastics, France, bronze, 4
+2016, Swimming, Norway, silver, 0
+2012, Synchronized Swimming, East Germany, gold, 2
+2004, Athletics, East Germany, bronze, 3
+2016, Tennis, Czechoslovakia, bronze, 3
+2008, Gymnastics, Commonwealth of Independent States, silver, 5
+2004, Modern Pentathlon, East Germany, gold, 3
+2008, Synchronized Swimming, Turkey, silver, 3
+2012, Cycling, Romania, gold, 2
+2016, Modern Pentathlon, Romania, silver, 6
+2016, Volleyball, Austria, silver, 6
+2008, Swimming, East Germany, b, 5
+2004, Football / Soccer, Bulgaria, gold, 6
+2004, Gymnastics, Poland, bronze, 1
+2008, Football / Soccer, Hungary, silver, 6
+2012, Synchronized Swimming, South Korea, gold, 6
+2016, Volleyball, Great Britain, gold, 3
+2016, Cycling, Denemark, gold, 4
+2012, Football / Soccer, Commonwealth of Independent States, gold, 2
+2004, Volleyball, Canada, gold, 4
+2004, Cycling, Poland, bronze, 0
+2008, Athletics, Cuba, silver, 2
+2012, Athletics, Great Britain, gold, 5
+2012, Cycling, South Korea, bronze, 5
+2016, Football / Soccer, Great Britain, bronze, 2
+2012, Synchronized Swimming, Austria, bronze, 1
+2004, Athletics, Hungary, silver, 3
+2012, Gymnastics, Russia, bronze, 6
+2016, Volleyball, Czechoslovakia, silver, 6
+2016, Tennis, Bulgaria, gold, 2
+2004, Synchronized Swimming, Bulgaria, bronze, 4
+2008, Volleyball, Japan, bronze, 2
+2004, Volleyball, Belgium, silver, 2
+2016, Volleyball, Sweden, gold, 5
+2004, Synchronized Swimming, Denemark, gold, 1
+2008, Swimming, Belgium, gold, 3
+2004, Tennis, East Germany, bronze, 2
+2016, Modern Pentathlon, Switzerland, bronze, 3
+2008, Tennis, Hungary, silver, 6
+2008, Gymnastics, Switzerland, silver, 6
+2004, Tennis, Sweden, silver, 0
+2004, Rowing, Poland, g, 4
+2008, Modern Pentathlon, Russia, bronze, 4
+2008, Synchronized Swimming, West Germany, silver, 5
+2004, Synchronized Swimming, Italy, bronze, 6
+2016, Volleyball, Canada, bronze, 5
+2004, Football / Soccer, Netherlands, bronze, 3
+2004, Rowing, Netherlands, bronze, 0
+2012, Rowing, United States, gold, 4
+2016, Synchronized Swimming, Canada, silver, 2
+2012, Synchronized Swimming, Finland, bronze, 4
+2004, Football / Soccer, Canada, silver, 3
+2012, Gymnastics, Japan, gold, 4
+2004, Volleyball, Hungary, silver, 1
+2012, Football / Soccer, Norway, silver, 4
+2016, Football / Soccer, East Germany, gold, 4
+2012, Gymnastics, Turkey, bronze, 2
+2004, Gymnastics, Russia, gold, 1
+2012, Modern Pentathlon, Switzerland, silver, 5
+2012, Football / Soccer, Great Britain, bronze, 5
+2008, Tennis, Italy, gold, 4
+2012, Rowing, Bulgaria, gold, 4
+2008, Modern Pentathlon, Austria, gold, 2
+2004, Football / Soccer, Norway, silver, 5
+2008, Swimming, Great Britain, b, 4
+2008, Football / Soccer, Czechoslovakia, silver, 5
+2008, Gymnastics, Netherlands, silver, 2
+2012, Tennis, Soviet Union, b, 1
+2012, Swimming, Australia, bronze, 4
+2004, Football / Soccer, Great Britain, silver, 0
+2004, Volleyball, Czechoslovakia, gold, 6
+2004, Cycling, Austria, silver, 4
+2008, Cycling, Canada, silver, 2
+2008, Cycling, Finland, silver, 3
+2016, Football / Soccer, Bulgaria, gold, 0
+2004, Gymnastics, Commonwealth of Independent States, bronze, 0
+2016, Cycling, East Germany, silver, 5
+2016, Gymnastics, Belgium, gold, 2
+2012, Synchronized Swimming, Netherlands, gold, 6
+2008, Tennis, United States, bronze, 6
+2012, Athletics, East Germany, bronze, 2
+2016, Swimming, Romania, silver, 3
+2004, Cycling, South Korea, bronze, 6
+2004, Football / Soccer, China, gold, 4
+2004, Football / Soccer, France, silver, 6
+2004, Football / Soccer, Commonwealth of Independent States, silver, 3
+2012, Volleyball, Belgium, bronze, 2
+2008, Modern Pentathlon, Soviet Union, gold, 2
+2008, Athletics, Austria, silver, 5
+2012, Gymnastics, South Korea, silver, 6
+2012, Volleyball, West Germany, bronze, 3
+2004, Modern Pentathlon, Finland, silver, 0
+2008, Gymnastics, United States, silver, 1
+2016, Volleyball, Soviet Union, silver, 4
+12, Swimming, South Korea, bronze, 1
+2008, Modern Pentathlon, Cuba, silver, 5
+2012, Synchronized Swimming, Japan, silver, 4
+2008, Swimming, Switzerland, gold, 2
+2016, Tennis, United States, gold, 6
+2004, Modern Pentathlon, Sweden, silver, 1
+2016, Athletics, United States, gold, 2
+2016, Cycling, Great Britain, gold, 4
+2008, Rowing, Switzerland, gold, 6
+2008, Modern Pentathlon, South Korea, silver, 0
+2016, Modern Pentathlon, Belgium, silver, 6
+2004, Football / Soccer, Belgium, bronze, 1
+2008, Football / Soccer, Turkey, bronze, 6
+2016, Athletics, West Germany, gold, 5
+2012, Swimming, Czechoslovakia, bronze, 2
+2004, Gymnastics, Great Britain, bronze, 2
+2004, Swimming, West Germany, gold, 0
+2008, Volleyball, Japan, silver, 2
+2012, Gymnastics, South Korea, bronze, 1
+2012, Synchronized Swimming, Germany, silver, 2
+2016, Tennis, France, silver, 2
+2012, Cycling, Bulgaria, silver, 6
+2004, Rowing, West Germany, silver, 5
+2012, Volleyball, Italy, gold, 2
+2004, Athletics, Sweden, bronze, 3
+2016, Rowing, Romania, bronze, 6
+2008, Football / Soccer, France, b, 3
+2008, Rowing, Netherlands, gold, 5
+2012, Volleyball, Czechoslovakia, silver, 3
+2008, Rowing, Cuba, silver, 1
+2012, Modern Pentathlon, Hungary, gold, 3
+2012, Athletics, Germany, bronze, 6
+2008, Modern Pentathlon, Sweden, silver, 5
+2016, Swimming, Cuba, bronze, 6
+2004, Cycling, Norway, silver, 6
+2004, Football / Soccer, Switzerland, gold, 4
+2008, Athletics, East Germany, silver, 6
+2008, Football / Soccer, Japan, silver, 1
+2008, Athletics, Hungary, gold, 6
+2016, Cycling, Austria, silver, 6
+2012, Athletics, Romania, bronze, 1
+2008, Synchronized Swimming, Denemark, bronze, 5
+2012, Swimming, Norway, gold, 3
+2016, Athletics, Turkey, b, 2
+2012, Football / Soccer, China, bronze, 3
+2016, Modern Pentathlon, West Germany, bronze, 1
+2004, Football / Soccer, United States, bronze, 2
+2012, Synchronized Swimming, Cuba, gold, 1
+2004, Volleyball, Germany, bronze, 1
+2016, Rowing, Romania, gold, 3
+2012, Gymnastics, France, gold, 0
+2012, Volleyball, Bulgaria, gold, 1
+2004, Synchronized Swimming, Czechoslovakia, bronze, 2
+2012, Synchronized Swimming, Turkey, silver, 6
+2004, Football / Soccer, China, bronze, 6
+2012, Cycling, Commonwealth of Independent States, gold, 3
+2012, Rowing, Canada, gold, 0
+2016, Gymnastics, Australia, gold, 6
+2012, Cycling, West Germany, bronze, 0
+2016, Athletics, Commonwealth of Independent States, silver, 4
+2016, Rowing, South Korea, silver, 6
+2008, Volleyball, Italy, bronze, 1
+2016, Modern Pentathlon, Commonwealth of Independent States, bronze, 4
+2016, Gymnastics, Hungary, bronze, 1
+2016, Modern Pentathlon, Great Britain, silver, 0
+2012, Modern Pentathlon, Netherlands, gold, 6
+2008, Synchronized Swimming, Great Britain, gold, 2
+2008, Gymnastics, Austria, bronze, 0
+2016, Volleyball, China, bronze, 1
+2004, Swimming, Turkey, gold, 2
+2004, Synchronized Swimming, Austria, gold, 6
+2016, Volleyball, Great Britain, silver, 5
+2012, Athletics, West Germany, gold, 5
+2004, Gymnastics, Canada, bronze, 6
+2004, Football / Soccer, Bulgaria, bronze, 3
+2008, Modern Pentathlon, Romania, silver, 1
+2016, Gymnastics, Cuba, gold, 6
+2016, Rowing, Poland, silver, 5
+2008, Modern Pentathlon, Japan, bronze, 4
+2016, Modern Pentathlon, Russia, silver, 0
+2004, Rowing, Switzerland, gold, 5
+2008, Gymnastics, Romania, gold, 5
+2004, Synchronized Swimming, Germany, silver, 5
+2008, Athletics, Finland, silver, 5
+2012, Volleyball, Switzerland, silver, 4
+2016, Rowing, Sweden, bronze, 0
+2012, Athletics, Hungary, silver, 0
+2008, Tennis, Russia, bronze, 2
+2012, Athletics, South Korea, gold, 5
+2008, Gymnastics, West Germany, bronze, 3
+2012, Gymnastics, Hungary, bronze, 3
+2012, Modern Pentathlon, Romania, silver, 5
+2008, Tennis, Turkey, bronze, 1
+2016, Swimming, Finland, silver, 5
+2012, Swimming, West Germany, bronze, 3
+2012, Athletics, Hungary, gold, 3
+2012, Modern Pentathlon, France, bronze, 0
+2016, Rowing, Poland, gold, 4
+2016, Rowing, Hungary, gold, 3
+2016, Swimming, Hungary, gold, 0
+2004, Volleyball, Cuba, silver, 0
+2004, Synchronized Swimming, China, gold, 4
+2016, Rowing, Canada, bronze, 3
+2016, Cycling, Russia, bronze, 0
+2012, Synchronized Swimming, Italy, gold, 2
+2012, Gymnastics, Norway, bronze, 0
+2016, Modern Pentathlon, Denemark, bronze, 6
+2008, Volleyball, Austria, gold, 6
+2016, Cycling, France, gold, 3
+2012, Football / Soccer, Soviet Union, silver, 5
+16, Athletics, Italy, silver, 3
+8, Athletics, Romania, gold, 1
+2004, Rowing, Switzerland, silver, 4
+2008, Modern Pentathlon, Sweden, gold, 4
+2012, Football / Soccer, Canada, gold, 1
+2008, Synchronized Swimming, Hungary, silver, 6
+2004, Cycling, Commonwealth of Independent States, bronze, 6
+2004, Cycling, Commonwealth of Independent States, silver, 4
+2012, Gymnastics, France, bronze, 3
+8, Volleyball, Finland, silver, 1
+2016, Volleyball, Czechoslovakia, bronze, 2
+2004, Cycling, Bulgaria, bronze, 0
+2012, Rowing, Cuba, silver, 0
+2008, Rowing, Italy, gold, 6
+2012, Synchronized Swimming, Switzerland, gold, 4
+2008, Football / Soccer, Great Britain, silver, 6
+2012, Football / Soccer, Belgium, silver, 1
+2012, Volleyball, Norway, silver, 4
+2012, Football / Soccer, Bulgaria, silver, 5
+12, Synchronized Swimming, France, gold, 6
+2008, Swimming, Canada, bronze, 5
+2016, Tennis, Switzerland, silver, 5
+2016, Volleyball, Hungary, bronze, 0
+2016, Modern Pentathlon, Great Britain, bronze, 0
+2012, Synchronized Swimming, Soviet Union, silver, 6
+2012, Football / Soccer, Soviet Union, gold, 4
+2004, Volleyball, United States, bronze, 1
+2004, Modern Pentathlon, Great Britain, gold, 5
+2012, Gymnastics, Soviet Union, gold, 3
+2012, Gymnastics, East Germany, gold, 3
+2004, Tennis, Russia, silver, 3
+2016, Cycling, Sweden, bronze, 4
+2008, Athletics, Netherlands, bronze, 3
+2016, Tennis, Sweden, bronze, 3
+2004, Rowing, Norway, bronze, 3
+2012, Athletics, Bulgaria, gold, 1
+2012, Modern Pentathlon, West Germany, bronze, 5
+2008, Volleyball, Hungary, bronze, 2
+2004, Athletics, Russia, silver, 4
+2016, Modern Pentathlon, Turkey, silver, 0
+2012, Gymnastics, China, gold, 1
+2004, Swimming, Belgium, bronze, 6
+2012, Football / Soccer, Poland, silver, 3
+2012, Modern Pentathlon, Hungary, silver, 3
+2016, Synchronized Swimming, Austria, silver, 6
+2008, Modern Pentathlon, Italy, g, 5
+2016, Modern Pentathlon, Romania, gold, 2
+2004, Rowing, Commonwealth of Independent States, bronze, 2
+2016, Rowing, Switzerland, silver, 4
+2004, Cycling, Sweden, bronze, 2
+2016, Cycling, United States, gold, 3
+2004, Cycling, Cuba, gold, 2
+2012, Swimming, Cuba, silver, 5
+2004, Swimming, Turkey, bronze, 3
+2004, Swimming, Austria, bronze, 0
+2012, Gymnastics, Czechoslovakia, silver, 2
+2008, Tennis, Commonwealth of Independent States, silver, 1
+2016, Rowing, Norway, silver, 1
+2008, Volleyball, Commonwealth of Independent States, gold, 3
+2016, Tennis, Denemark, gold, 3
+2012, Gymnastics, Italy, bronze, 2
+2008, Gymnastics, Bulgaria, bronze, 0
+2004, Tennis, West Germany, gold, 4
+2004, Tennis, Germany, gold, 5
+2008, Athletics, Japan, gold, 6
+2016, Rowing, Germany, gold, 5
+2012, Athletics, China, silver, 6
+2004, Cycling, Turkey, bronze, 3
+2016, Athletics, Russia, bronze, 0
+2008, Football / Soccer, Czechoslovakia, bronze, 6
+2004, Athletics, West Germany, silver, 6
+2012, Rowing, Netherlands, bronze, 3
+2008, Modern Pentathlon, China, gold, 4
+2004, Gymnastics, Cuba, bronze, 2
+2004, Synchronized Swimming, Denemark, silver, 2
+2008, Cycling, Italy, silver, 6
+2012, Athletics, Bulgaria, silver, 3
+2004, Athletics, Romania, gold, 6
+2012, Swimming, Soviet Union, gold, 5
+2016, Athletics, Canada, silver, 5
+2016, Synchronized Swimming, Austria, g, 1
+2016, Swimming, Germany, silver, 0
+16, Tennis, France, bronze, 4
+2004, Modern Pentathlon, Canada, silver, 6
+2004, Synchronized Swimming, East Germany, silver, 0
+2004, Rowing, Netherlands, silver, 0
+2016, Swimming, Finland, gold, 3
+2004, Rowing, South Korea, bronze, 1
+2012, Gymnastics, South Korea, gold, 5
+2008, Athletics, Turkey, gold, 4
+2004, Football / Soccer, United States, silver, 6
+2008, Football / Soccer, United States, silver, 4
+2008, Modern Pentathlon, Bulgaria, silver, 4
+2004, Modern Pentathlon, Poland, bronze, 5
+2004, Cycling, Australia, silver, 3
+2012, Cycling, France, bronze, 4
+2004, Football / Soccer, Australia, silver, 4
+2004, Football / Soccer, Poland, bronze, 5
+2012, Rowing, East Germany, bronze, 5
+2012, Swimming, Bulgaria, bronze, 4
+2016, Swimming, South Korea, bronze, 3
+2016, Volleyball, Denemark, gold, 6
+2012, Tennis, Norway, gold, 0
+2012, Cycling, Germany, silver, 3
+2008, Gymnastics, South Korea, g, 0
+2004, Volleyball, Turkey, bronze, 6
+2016, Gymnastics, South Korea, bronze, 3
+2008, Modern Pentathlon, Bulgaria, bronze, 0
+2008, Rowing, Cuba, bronze, 2
+2012, Tennis, Commonwealth of Independent States, bronze, 5
+2004, Tennis, Switzerland, silver, 0
+2012, Football / Soccer, China, gold, 4
+2016, Cycling, South Korea, silver, 5
+2012, Volleyball, Czechoslovakia, gold, 0
+2016, Synchronized Swimming, West Germany, silver, 2
+2016, Football / Soccer, Denemark, bronze, 0
+2016, Athletics, Germany, silver, 4
+2012, Volleyball, Sweden, bronze, 6
+2004, Modern Pentathlon, United States, silver, 3
+2016, Football / Soccer, China, bronze, 4
+2008, Athletics, Russia, bronze, 2
+2012, Tennis, Czechoslovakia, gold, 6
+2008, Rowing, East Germany, silver, 3
+2016, Tennis, South Korea, silver, 5
+2012, Swimming, West Germany, silver, 2
+2008, Rowing, Poland, silver, 6
+2016, Rowing, Finland, silver, 2
+2012, Synchronized Swimming, Russia, gold, 0
+2004, Swimming, China, bronze, 3
+2012, Synchronized Swimming, Netherlands, s, 5
+2016, Gymnastics, Romania, b, 2
+2008, Volleyball, Romania, gold, 6
+2012, Swimming, Japan, gold, 3
+2004, Modern Pentathlon, Soviet Union, gold, 1
+2016, Volleyball, Cuba, silver, 2
+2012, Swimming, Hungary, bronze, 2
+2008, Modern Pentathlon, Austria, bronze, 6
+2008, Modern Pentathlon, United States, gold, 5
+2008, Tennis, Bulgaria, silver, 4
+2016, Cycling, Hungary, bronze, 5
+2012, Modern Pentathlon, Soviet Union, bronze, 4
+2016, Rowing, Germany, silver, 5
+2008, Tennis, Poland, gold, 5
+2012, Gymnastics, Canada, gold, 0
+2012, Modern Pentathlon, Denemark, gold, 1
+2008, Tennis, Italy, b, 6
+2012, Volleyball, United States, gold, 1
+4, Tennis, Canada, silver, 1
+2016, Tennis, France, gold, 1
+2012, Rowing, Belgium, silver, 1
+2016, Athletics, West Germany, silver, 4
+2012, Gymnastics, Hungary, silver, 2
+2016, Modern Pentathlon, Australia, gold, 0
+2008, Synchronized Swimming, Bulgaria, silver, 4
+2016, Synchronized Swimming, Cuba, bronze, 4
+2012, Synchronized Swimming, Czechoslovakia, silver, 4
+2012, Rowing, Cuba, gold, 1
+2016, Cycling, Finland, gold, 4
+2004, Cycling, Bulgaria, gold, 1
+2008, Football / Soccer, Australia, silver, 6
+2012, Synchronized Swimming, France, bronze, 6
+2004, Modern Pentathlon, Japan, gold, 5
+2012, Modern Pentathlon, Denemark, bronze, 1
+2004, Swimming, East Germany, gold, 1
+2008, Gymnastics, Australia, silver, 0
+2008, Tennis, Germany, bronze, 1
+2004, Tennis, Finland, silver, 6
+2004, Modern Pentathlon, Switzerland, s, 2
+2004, Football / Soccer, Austria, b, 1
+2016, Gymnastics, United States, s, 3
+2008, Swimming, Australia, silver, 3
+2008, Athletics, South Korea, silver, 0
+2016, Rowing, Switzerland, bronze, 2
+2012, Tennis, West Germany, silver, 1
+2004, Rowing, Commonwealth of Independent States, silver, 5
+2012, Tennis, Japan, bronze, 0
+16, Rowing, Cuba, bronze, 6
+2012, Athletics, Commonwealth of Independent States, silver, 6
+2008, Cycling, Norway, gold, 0
+2012, Football / Soccer, France, silver, 0
+2012, Athletics, Italy, gold, 4
+2012, Football / Soccer, United States, silver, 5
+2008, Gymnastics, Cuba, bronze, 3
+2012, Rowing, Netherlands, silver, 4
+2012, Gymnastics, Romania, gold, 1
+2012, Gymnastics, Poland, gold, 2
+2016, Rowing, Denemark, bronze, 2
+2004, Football / Soccer, West Germany, bronze, 0
+2012, Gymnastics, East Germany, silver, 3
+2004, Rowing, Finland, silver, 2
+2008, Tennis, Cuba, silver, 5
+2016, Gymnastics, Denemark, bronze, 5
+2016, Swimming, Soviet Union, bronze, 2
+2008, Modern Pentathlon, Germany, silver, 4
+2016, Modern Pentathlon, Australia, silver, 6
+2012, Synchronized Swimming, Poland, g, 1
+2016, Swimming, Sweden, bronze, 2
+2008, Athletics, Bulgaria, bronze, 3
+2004, Rowing, Austria, bronze, 0
+2008, Athletics, France, bronze, 2
+2016, Athletics, Denemark, gold, 1
+2004, Football / Soccer, Canada, bronze, 4
+2016, Rowing, Belgium, silver, 6
+2008, Cycling, Belgium, gold, 1
+2008, Gymnastics, Soviet Union, bronze, 2
+2008, Gymnastics, Belgium, silver, 0
+2008, Rowing, Australia, gold, 4
+2008, Gymnastics, China, silver, 5
+2008, Swimming, Czechoslovakia, bronze, 1
+2008, Volleyball, France, silver, 3
+2008, Football / Soccer, South Korea, bronze, 3
+2004, Swimming, Japan, bronze, 1
+2012, Tennis, Great Britain, bronze, 6
+2008, Athletics, Norway, silver, 5
+2004, Synchronized Swimming, Austria, silver, 4
+2004, Football / Soccer, Norway, gold, 0
+2016, Cycling, Japan, silver, 2
+2016, Athletics, Canada, gold, 4
+2004, Gymnastics, Sweden, silver, 2
+2012, Modern Pentathlon, Poland, bronze, 5
+2012, Rowing, France, gold, 2
+2008, Swimming, East Germany, g, 0
+2012, Football / Soccer, Czechoslovakia, silver, 0
+2016, Synchronized Swimming, Denemark, gold, 6
+2016, Athletics, South Korea, bronze, 3
+2016, Cycling, Netherlands, gold, 0
+2016, Gymnastics, West Germany, silver, 1
+2004, Rowing, East Germany, bronze, 4
+2004, Tennis, Germany, bronze, 2
+2008, Gymnastics, Great Britain, silver, 6
+2008, Swimming, Commonwealth of Independent States, silver, 1
+2016, Rowing, Soviet Union, gold, 4
+2012, Cycling, Italy, silver, 5
+2016, Swimming, East Germany, silver, 3
+2004, Athletics, Sweden, gold, 0
+2012, Tennis, Belgium, gold, 1
+2008, Modern Pentathlon, Turkey, bronze, 4
+2012, Football / Soccer, Romania, gold, 5
+2008, Football / Soccer, Finland, gold, 2
+2012, Swimming, East Germany, silver, 1
+2012, Tennis, Czechoslovakia, silver, 0
+2008, Cycling, Hungary, gold, 0
+2004, Rowing, Canada, bronze, 6
+2004, Gymnastics, Bulgaria, bronze, 2
+2016, Football / Soccer, China, gold, 0
+2016, Gymnastics, Finland, gold, 1
+2004, Cycling, Japan, gold, 0
+2004, Tennis, Czechoslovakia, silver, 5
+2016, Cycling, Australia, silver, 6
+2004, Modern Pentathlon, Romania, gold, 1
+2004, Rowing, Finland, bronze, 0
+2004, Tennis, Poland, bronze, 0
+8, Athletics, East Germany, bronze, 3
+2008, Tennis, Bulgaria, gold, 3
+2004, Rowing, Japan, silver, 2
+2012, Football / Soccer, Belgium, gold, 2
+2004, Rowing, Australia, silver, 6
+2012, Rowing, Australia, gold, 6
+2004, Swimming, Russia, silver, 4
+2016, Cycling, Turkey, bronze, 2
+2004, Modern Pentathlon, Great Britain, bronze, 3
+2004, Cycling, Italy, bronze, 3
+2004, Modern Pentathlon, China, gold, 0
+2016, Synchronized Swimming, Romania, bronze, 5
+2008, Rowing, Czechoslovakia, bronze, 6
+2012, Football / Soccer, Hungary, gold, 1
+2016, Swimming, China, gold, 6
+2012, Swimming, Sweden, bronze, 4
+2008, Swimming, Czechoslovakia, gold, 3
+2004, Tennis, Belgium, silver, 2
+2008, Football / Soccer, East Germany, silver, 5
+2012, Tennis, Commonwealth of Independent States, silver, 5
+2008, Swimming, Romania, bronze, 1
+2012, Athletics, United States, gold, 3
+2016, Synchronized Swimming, Poland, silver, 3
+2016, Gymnastics, Norway, bronze, 4
+2016, Modern Pentathlon, Norway, bronze, 2
+2004, Modern Pentathlon, West Germany, gold, 3
+2004, Synchronized Swimming, China, silver, 6
+2008, Gymnastics, Soviet Union, silver, 5
+2004, Modern Pentathlon, South Korea, silver, 1
+2016, Tennis, Hungary, gold, 5
+2008, Synchronized Swimming, Poland, bronze, 4
+2004, Gymnastics, Hungary, bronze, 2
+2004, Gymnastics, Belgium, bronze, 0
+2008, Swimming, Finland, silver, 4
+2008, Modern Pentathlon, South Korea, bronze, 4
+2012, Rowing, Netherlands, gold, 2
+2016, Swimming, Italy, gold, 5
+2004, Swimming, South Korea, bronze, 1
+2004, Gymnastics, Bulgaria, gold, 3
+2008, Football / Soccer, Russia, bronze, 6
+2008, Synchronized Swimming, Hungary, bronze, 2
+2016, Football / Soccer, Cuba, bronze, 2
+2004, Swimming, Poland, silver, 2
+2008, Football / Soccer, Great Britain, bronze, 2
+2016, Athletics, Hungary, bronze, 2
+2004, Swimming, Italy, bronze, 3
+2012, Tennis, Commonwealth of Independent States, gold, 4
+2004, Modern Pentathlon, Denemark, gold, 2
+2012, Tennis, Switzerland, gold, 4
+2016, Football / Soccer, Netherlands, s, 6
+2008, Football / Soccer, Germany, bronze, 1
+2008, Tennis, Czechoslovakia, gold, 6
+2004, Athletics, Czechoslovakia, silver, 6
+2004, Synchronized Swimming, Cuba, bronze, 4
+2004, Tennis, Denemark, gold, 0
+2012, Modern Pentathlon, East Germany, gold, 6
+2016, Gymnastics, Austria, silver, 5
+2004, Modern Pentathlon, Cuba, silver, 4
+2016, Tennis, Switzerland, bronze, 1
+2008, Modern Pentathlon, West Germany, bronze, 1
+2004, Synchronized Swimming, Poland, gold, 3
+2004, Football / Soccer, Romania, gold, 3
+2012, Cycling, Denemark, gold, 1
+2008, Gymnastics, Switzerland, g, 0
+2016, Tennis, Denemark, bronze, 2
+2012, Modern Pentathlon, Austria, bronze, 0
+2008, Cycling, China, gold, 2
+2012, Football / Soccer, Poland, gold, 1
+2012, Volleyball, Finland, bronze, 1
+2016, Athletics, Romania, silver, 6
+2004, Rowing, Norway, silver, 3
+2004, Cycling, United States, gold, 6
+2016, Synchronized Swimming, Denemark, bronze, 1
+2004, Modern Pentathlon, Germany, gold, 0
+2008, Swimming, Canada, silver, 4
+2016, Swimming, Bulgaria, bronze, 0
+2008, Synchronized Swimming, Germany, gold, 1
+2004, Volleyball, Bulgaria, silver, 3
+2012, Synchronized Swimming, Norway, silver, 5
+2016, Gymnastics, Cuba, bronze, 1
+2016, Football / Soccer, Romania, bronze, 3
+2016, Rowing, Hungary, silver, 2
+2016, Football / Soccer, Switzerland, bronze, 2
+2004, Football / Soccer, Sweden, bronze, 6
+2008, Swimming, South Korea, silver, 1
+2004, Cycling, Italy, gold, 5
+2008, Volleyball, Australia, bronze, 5
+2012, Volleyball, Hungary, bronze, 1
+2004, Cycling, France, silver, 4
+2004, Volleyball, Austria, silver, 1
+2016, Modern Pentathlon, Great Britain, gold, 2
+2004, Gymnastics, China, bronze, 0
+2008, Synchronized Swimming, Sweden, bronze, 3
+2008, Cycling, Commonwealth of Independent States, gold, 0
+2016, Rowing, Netherlands, silver, 2
+2004, Rowing, Germany, silver, 2
+2004, Football / Soccer, Turkey, silver, 0
+2016, Athletics, Turkey, gold, 5
+2012, Swimming, Canada, silver, 3
+2012, Cycling, Switzerland, bronze, 1
+2008, Volleyball, Cuba, silver, 1
+2008, Volleyball, Poland, bronze, 1
+2004, Tennis, Netherlands, gold, 0
+2016, Synchronized Swimming, Finland, gold, 2
+2008, Synchronized Swimming, Austria, bronze, 3
+2012, Cycling, Poland, silver, 3
+2012, Rowing, West Germany, gold, 3
+2004, Cycling, Hungary, bronze, 3
+2012, Modern Pentathlon, Bulgaria, gold, 0
+2016, Tennis, Netherlands, bronze, 0
+2016, Swimming, Czechoslovakia, silver, 0
+2016, Tennis, Turkey, gold, 3
+2016, Synchronized Swimming, Finland, bronze, 4
+16, Rowing, China, bronze, 2
+4, Football / Soccer, West Germany, gold, 0
+2008, Synchronized Swimming, Soviet Union, bronze, 1
+2004, Modern Pentathlon, East Germany, bronze, 4
+2004, Modern Pentathlon, Czechoslovakia, gold, 5
+16, Cycling, Japan, gold, 0
+2008, Tennis, Commonwealth of Independent States, gold, 3
+2012, Modern Pentathlon, Canada, bronze, 2
+2008, Gymnastics, Soviet Union, gold, 6
+2016, Cycling, Commonwealth of Independent States, silver, 3
+2004, Cycling, East Germany, bronze, 1
+2008, Synchronized Swimming, Australia, gold, 3
+2004, Synchronized Swimming, Hungary, silver, 0
+2004, Swimming, United States, silver, 6
+2012, Gymnastics, Switzerland, bronze, 5
+2016, Volleyball, Cuba, gold, 4
+2004, Rowing, Belgium, gold, 2
+2012, Tennis, China, g, 3
+4, Synchronized Swimming, Australia, gold, 6
+2004, Gymnastics, South Korea, gold, 4
+2012, Synchronized Swimming, Bulgaria, gold, 5
+2008, Tennis, Switzerland, silver, 4
+2012, Cycling, Soviet Union, bronze, 5
+2004, Volleyball, Canada, silver, 0
+2004, Gymnastics, Netherlands, gold, 6
+2008, Volleyball, Italy, silver, 3
+2008, Cycling, Switzerland, bronze, 0
+2008, Tennis, Finland, bronze, 4
+2016, Cycling, Czechoslovakia, silver, 5
+2012, Swimming, Commonwealth of Independent States, bronze, 4
+2016, Gymnastics, Austria, gold, 4
+2016, Cycling, Norway, silver, 0
+2004, Modern Pentathlon, Australia, bronze, 2
+2016, Swimming, Canada, gold, 2
+2008, Gymnastics, Hungary, gold, 2
+2008, Modern Pentathlon, Netherlands, silver, 0
+2008, Rowing, Great Britain, bronze, 1
+2004, Football / Soccer, Commonwealth of Independent States, bronze, 6
+2012, Tennis, Germany, bronze, 4
+2004, Football / Soccer, Australia, gold, 3
+2004, Athletics, Romania, bronze, 5
+2012, Modern Pentathlon, Soviet Union, gold, 1
+2016, Athletics, China, g, 3
+2004, Synchronized Swimming, Switzerland, gold, 6
+2012, Football / Soccer, Turkey, silver, 5
+2012, Tennis, Austria, gold, 1
+2016, Football / Soccer, South Korea, silver, 1
+2008, Modern Pentathlon, Canada, silver, 4
+2016, Tennis, Germany, silver, 0
+2012, Tennis, Hungary, gold, 3
+2004, Gymnastics, South Korea, silver, 5
+2004, Athletics, Japan, silver, 2
+2016, Tennis, Poland, gold, 3
+2016, Athletics, Czechoslovakia, silver, 1
+2004, Swimming, France, gold, 3
+2008, Athletics, Germany, gold, 6
+2008, Volleyball, China, bronze, 6
+2008, Athletics, Bulgaria, silver, 6
+2012, Cycling, Soviet Union, silver, 6
+12, Rowing, Australia, silver, 1
+2004, Swimming, West Germany, silver, 2
+2004, Cycling, Finland, silver, 4
+2016, Synchronized Swimming, Germany, silver, 3
+2004, Football / Soccer, Russia, gold, 5
+2004, Tennis, Soviet Union, silver, 3
+2004, Swimming, United States, bronze, 2
+2016, Volleyball, Germany, gold, 5
+2012, Modern Pentathlon, Poland, gold, 6
+2016, Synchronized Swimming, Hungary, gold, 4
+2004, Rowing, Bulgaria, g, 6
+2016, Athletics, Romania, gold, 5
+2008, Cycling, Italy, bronze, 4
+2004, Swimming, Germany, bronze, 5
+2008, Volleyball, Germany, silver, 4
+2008, Synchronized Swimming, Japan, bronze, 1
+2016, Swimming, Italy, bronze, 3
+2008, Modern Pentathlon, Great Britain, b, 6
+2012, Gymnastics, Norway, gold, 2
+2008, Synchronized Swimming, East Germany, gold, 2
+2012, Gymnastics, Czechoslovakia, bronze, 0
+2008, Gymnastics, Czechoslovakia, silver, 4
+2004, Athletics, Great Britain, gold, 0
+2016, Gymnastics, Germany, silver, 3
+2004, Football / Soccer, Hungary, gold, 6
+4, Volleyball, Great Britain, bronze, 4
+2012, Football / Soccer, Commonwealth of Independent States, bronze, 6
+2016, Synchronized Swimming, South Korea, silver, 5
+2016, Athletics, Finland, bronze, 4
+2004, Gymnastics, Italy, bronze, 0
+2012, Rowing, Austria, bronze, 6
+2012, Swimming, Cuba, bronze, 1
+2012, Volleyball, South Korea, silver, 6
+2008, Gymnastics, Russia, gold, 4
+2016, Modern Pentathlon, Sweden, bronze, 2
+2004, Tennis, Romania, bronze, 3
+2004, Volleyball, Germany, gold, 5
+2004, Synchronized Swimming, Italy, silver, 0
+2008, Modern Pentathlon, Bulgaria, gold, 0
+16, Gymnastics, Commonwealth of Independent States, gold, 1
+8, Swimming, Cuba, silver, 5
+2012, Volleyball, Poland, gold, 3
+2004, Synchronized Swimming, South Korea, bronze, 6
+2016, Gymnastics, Norway, silver, 6
+2008, Gymnastics, Commonwealth of Independent States, gold, 1
+2004, Synchronized Swimming, Sweden, silver, 6
+2012, Modern Pentathlon, United States, silver, 5
+2004, Football / Soccer, Denemark, silver, 0
+2008, Athletics, Czechoslovakia, gold, 5
+2016, Swimming, Romania, gold, 4
+2016, Athletics, Denemark, silver, 3
+2008, Football / Soccer, Turkey, gold, 3
+2016, Synchronized Swimming, Italy, g, 4
+2008, Athletics, Great Britain, gold, 1
+2016, Cycling, Sweden, gold, 6
+2004, Modern Pentathlon, Italy, bronze, 0
+2004, Volleyball, Denemark, gold, 1
+2016, Rowing, China, gold, 4
+2012, Athletics, Japan, gold, 3
+2016, Cycling, United States, bronze, 1
+2008, Swimming, Poland, bronze, 5
+2012, Gymnastics, Poland, bronze, 4
+2004, Swimming, South Korea, gold, 0
+2016, Rowing, Austria, silver, 1
+2012, Cycling, Canada, bronze, 2
+2012, Athletics, Sweden, gold, 6
+2012, Athletics, South Korea, silver, 4
+2004, Athletics, Bulgaria, silver, 2
+2008, Rowing, Sweden, silver, 6
+2012, Cycling, Great Britain, bronze, 5
+2012, Tennis, Finland, silver, 1
+2012, Synchronized Swimming, Bulgaria, silver, 3
+2004, Synchronized Swimming, Cuba, gold, 2
+8, Gymnastics, Belgium, bronze, 1
+2008, Synchronized Swimming, Great Britain, silver, 5
+2008, Gymnastics, Canada, gold, 4
+2008, Cycling, Turkey, gold, 2
+2008, Volleyball, South Korea, gold, 2
+2012, Swimming, Bulgaria, silver, 5
+2004, Synchronized Swimming, Denemark, bronze, 2
+2016, Modern Pentathlon, Hungary, gold, 0
+2016, Synchronized Swimming, Romania, gold, 4
+2012, Athletics, Turkey, s, 3
+2004, Rowing, Great Britain, bronze, 0
+2004, Football / Soccer, Poland, silver, 1
+2008, Volleyball, Poland, gold, 5
+2004, Football / Soccer, Cuba, gold, 2
+2004, Gymnastics, Australia, gold, 5
+2004, Volleyball, Commonwealth of Independent States, silver, 3
+2012, Rowing, East Germany, silver, 0
+2008, Modern Pentathlon, Switzerland, silver, 2
+2008, Synchronized Swimming, Denemark, gold, 4
+2008, Cycling, Poland, bronze, 3
+2008, Football / Soccer, France, gold, 0
+2016, Swimming, Japan, gold, 3
+2008, Gymnastics, Norway, gold, 3
+2016, Football / Soccer, Germany, gold, 3
+2012, Athletics, France, silver, 2
+2016, Volleyball, Norway, bronze, 1
+2008, Gymnastics, Austria, silver, 5
+2016, Gymnastics, Turkey, gold, 4
+2008, Football / Soccer, Hungary, b, 3
+2008, Swimming, Norway, silver, 3
+2016, Gymnastics, France, bronze, 3
+2012, Football / Soccer, Italy, silver, 1
+2012, Swimming, Belgium, bronze, 5
+2016, Athletics, Switzerland, bronze, 2
+2004, Synchronized Swimming, Netherlands, silver, 2
+2012, Rowing, Canada, bronze, 0
+2008, Athletics, Finland, bronze, 5
+2012, Synchronized Swimming, France, silver, 0
+2016, Rowing, Germany, bronze, 4
+2008, Football / Soccer, Denemark, gold, 0
+4, Athletics, South Korea, gold, 5
+2004, Cycling, Bulgaria, silver, 1
+2004, Football / Soccer, Germany, gold, 5
+2008, Rowing, West Germany, gold, 2
+2004, Athletics, Norway, gold, 2
+2008, Cycling, China, silver, 4
+2012, Gymnastics, Australia, silver, 1
+2012, Swimming, Canada, bronze, 6
+2012, Football / Soccer, South Korea, silver, 5
+2008, Gymnastics, Poland, bronze, 6
+2016, Gymnastics, Norway, gold, 6
+2012, Swimming, Romania, b, 1
+2012, Gymnastics, Australia, gold, 5
+2008, Rowing, Austria, b, 3
+2004, Synchronized Swimming, Hungary, gold, 2
+2016, Gymnastics, Turkey, silver, 6
+2008, Swimming, Great Britain, silver, 5
+2012, Swimming, Turkey, silver, 0
+2004, Swimming, Commonwealth of Independent States, silver, 1
+2008, Athletics, Bulgaria, gold, 4
+2016, Tennis, Cuba, silver, 5
+2016, Athletics, Bulgaria, silver, 6
+2008, Synchronized Swimming, Soviet Union, silver, 3
+2004, Football / Soccer, Cuba, bronze, 0
+16, Gymnastics, China, bronze, 0
+2008, Athletics, West Germany, gold, 0
+2016, Swimming, Switzerland, silver, 5
+2016, Gymnastics, Germany, gold, 6
+2004, Synchronized Swimming, West Germany, bronze, 1
+2012, Synchronized Swimming, Commonwealth of Independent States, bronze, 4
+2004, Football / Soccer, Australia, bronze, 1
+2016, Gymnastics, Austria, bronze, 4
+2012, Modern Pentathlon, Canada, gold, 0
+2004, Volleyball, Belgium, gold, 6
+2004, Cycling, West Germany, silver, 0
+2012, Synchronized Swimming, Poland, silver, 5
+2004, Swimming, Belgium, silver, 2
+2016, Athletics, Austria, silver, 1
+2016, Gymnastics, Australia, silver, 0
+2012, Volleyball, Hungary, gold, 0
+2004, Modern Pentathlon, Hungary, bronze, 4
+2012, Swimming, Commonwealth of Independent States, gold, 2
+2004, Volleyball, Romania, bronze, 1
+2012, Rowing, Germany, bronze, 2
+2016, Cycling, Poland, bronze, 2
+2004, Synchronized Swimming, Belgium, gold, 0
+2016, Swimming, United States, bronze, 1
+2012, Synchronized Swimming, Germany, gold, 3
+2016, Athletics, Great Britain, bronze, 0
+2012, Volleyball, China, gold, 2
+2012, Football / Soccer, Turkey, bronze, 5
+2012, Synchronized Swimming, Sweden, bronze, 0
+2016, Football / Soccer, Belgium, gold, 4
+2012, Athletics, Commonwealth of Independent States, bronze, 3
+2012, Synchronized Swimming, Hungary, gold, 4
+2008, Rowing, Turkey, gold, 5
+4, Swimming, Hungary, bronze, 0
+2016, Tennis, United States, silver, 6
+2016, Tennis, Romania, silver, 0
+2012, Tennis, South Korea, bronze, 3
+2004, Tennis, Cuba, silver, 3
+2004, Rowing, Japan, bronze, 1
+12, Tennis, Russia, bronze, 0
+2004, Volleyball, Austria, bronze, 0
+2008, Cycling, Denemark, g, 6
+2004, Swimming, Norway, gold, 5
+2008, Tennis, Czechoslovakia, bronze, 0
+2016, Cycling, Cuba, silver, 0
+4, Swimming, Commonwealth of Independent States, gold, 5
+2008, Rowing, Romania, gold, 2
+2008, Synchronized Swimming, Finland, gold, 3
+2012, Synchronized Swimming, Czechoslovakia, gold, 5
+2008, Modern Pentathlon, Belgium, silver, 5
+2016, Rowing, Finland, gold, 1
+2012, Cycling, Norway, silver, 2
+2004, Athletics, Belgium, silver, 3
+2016, Volleyball, Australia, gold, 4
+2016, Modern Pentathlon, Japan, gold, 0
+2016, Volleyball, Belgium, bronze, 4
+2016, Swimming, Germany, bronze, 4
+2008, Swimming, Finland, bronze, 2
+2012, Tennis, Japan, gold, 5
+2004, Swimming, Hungary, gold, 5
+2004, Athletics, Soviet Union, bronze, 6
+2012, Modern Pentathlon, Turkey, bronze, 5
+8, Athletics, Cuba, bronze, 3
+2012, Tennis, Denemark, silver, 6
+2012, Swimming, Romania, gold, 5
+2008, Cycling, Bulgaria, s, 1
+2012, Athletics, Austria, silver, 4
+2016, Rowing, Cuba, gold, 3
+2012, Athletics, Netherlands, bronze, 4
+2012, Rowing, West Germany, bronze, 1
+2016, Gymnastics, Netherlands, bronze, 0
+2012, Cycling, South Korea, silver, 0
+2004, Synchronized Swimming, Soviet Union, gold, 2
+2012, Modern Pentathlon, West Germany, gold, 0
+2004, Volleyball, Netherlands, silver, 6
+2016, Synchronized Swimming, Sweden, bronze, 1
+2008, Tennis, Japan, gold, 4
+2004, Modern Pentathlon, Great Britain, silver, 0
+2008, Cycling, Czechoslovakia, silver, 2
+2008, Swimming, Australia, gold, 4
+2004, Volleyball, Czechoslovakia, silver, 5
+2008, Cycling, Norway, silver, 4
+2012, Volleyball, Commonwealth of Independent States, silver, 1
+2016, Synchronized Swimming, Romania, silver, 6
+2016, Tennis, Belgium, silver, 1
+2016, Football / Soccer, South Korea, bronze, 3
+2012, Rowing, Switzerland, gold, 6
+2004, Gymnastics, Switzerland, gold, 4
+2004, Cycling, Hungary, silver, 6
+2008, Volleyball, Great Britain, silver, 1
+2012, Gymnastics, Hungary, gold, 0
+2016, Tennis, Hungary, silver, 2
+2012, Modern Pentathlon, Poland, silver, 4
+2016, Volleyball, Turkey, silver, 5
+2008, Modern Pentathlon, Hungary, gold, 2
+2004, Cycling, East Germany, silver, 3
+2016, Football / Soccer, Soviet Union, bronze, 2
+2012, Volleyball, Great Britain, gold, 6
+2004, Modern Pentathlon, Austria, bronze, 4
+2004, Tennis, Sweden, gold, 6
+2016, Football / Soccer, Sweden, bronze, 4
+2004, Synchronized Swimming, Soviet Union, bronze, 4
+2008, Cycling, Japan, bronze, 6
+2008, Modern Pentathlon, Netherlands, bronze, 6
+2004, Tennis, Czechoslovakia, bronze, 5
+2016, Tennis, Commonwealth of Independent States, gold, 5
+2016, Tennis, Australia, gold, 5
+2012, Football / Soccer, Russia, gold, 2
+2008, Gymnastics, Hungary, silver, 0
+2012, Tennis, Switzerland, bronze, 6
+2004, Swimming, Romania, bronze, 2
+2008, Football / Soccer, Soviet Union, gold, 6
+2008, Volleyball, Romania, silver, 4
+2004, Cycling, Great Britain, bronze, 5
+2008, Rowing, United States, bronze, 1
+2012, Tennis, Cuba, bronze, 4
+2012, Volleyball, France, bronze, 5
+2016, Athletics, Cuba, bronze, 6
+2016, Swimming, Hungary, bronze, 0
+2004, Football / Soccer, Austria, gold, 0
+2004, Swimming, Norway, silver, 5
+2004, Gymnastics, Denemark, gold, 0
+2012, Football / Soccer, Japan, silver, 4
+2004, Tennis, Hungary, bronze, 1
+2004, Tennis, Germany, silver, 5
+2008, Tennis, Hungary, gold, 6
+8, Volleyball, Switzerland, gold, 0
+2012, Volleyball, Norway, gold, 0
+2004, Athletics, East Germany, gold, 6
+2012, Modern Pentathlon, Germany, bronze, 2
+2016, Gymnastics, Japan, gold, 3
+2008, Tennis, Great Britain, silver, 2
+2008, Volleyball, Bulgaria, silver, 1
+2008, Football / Soccer, China, silver, 6
+2012, Football / Soccer, Switzerland, gold, 5
+2004, Cycling, United States, silver, 6
+2008, Rowing, Germany, bronze, 4
+2016, Tennis, Great Britain, gold, 3
+2004, Volleyball, Japan, bronze, 3
+2012, Cycling, South Korea, gold, 5
+2008, Volleyball, West Germany, bronze, 3
+2016, Cycling, Italy, bronze, 4
+2016, Volleyball, Czechoslovakia, gold, 3
+2012, Tennis, Romania, bronze, 4
+2004, Rowing, Bulgaria, silver, 4
+2016, Football / Soccer, Great Britain, silver, 4
+2012, Volleyball, Russia, silver, 2
+2012, Cycling, Turkey, bronze, 5
+2008, Football / Soccer, Bulgaria, silver, 0
+2004, Rowing, Switzerland, bronze, 3
+2004, Cycling, Russia, bronze, 6
+2004, Cycling, Austria, gold, 5
+2012, Rowing, Great Britain, silver, 0
+2016, Cycling, Commonwealth of Independent States, bronze, 2
+2016, Tennis, Soviet Union, gold, 1
+2008, Cycling, West Germany, silver, 1
+2016, Athletics, Cuba, silver, 1
+2016, Synchronized Swimming, Belgium, bronze, 6
+2016, Cycling, Netherlands, silver, 4
+2004, Tennis, Romania, gold, 2
+2008, Rowing, Cuba, gold, 6
+2004, Cycling, West Germany, gold, 6
+2004, Swimming, Japan, gold, 5
+2016, Athletics, Norway, silver, 5
+2012, Synchronized Swimming, Cuba, bronze, 5
+2008, Athletics, Japan, silver, 3
+2016, Swimming, Poland, silver, 3
+2004, Gymnastics, Belgium, gold, 0
+2008, Athletics, United States, bronze, 3
+2016, Tennis, Canada, bronze, 3
+2008, Swimming, West Germany, bronze, 2
+2004, Volleyball, Australia, bronze, 4
+2008, Modern Pentathlon, United States, bronze, 2
+2008, Cycling, Finland, gold, 5
+2016, Swimming, China, bronze, 0
+2016, Modern Pentathlon, Austria, gold, 2
+2004, Gymnastics, Cuba, silver, 2
+2004, Volleyball, China, bronze, 3
+2012, Athletics, Bulgaria, bronze, 2
+2004, Cycling, Netherlands, bronze, 6
+2004, Football / Soccer, Japan, bronze, 3
+2004, Modern Pentathlon, Russia, gold, 5
+2012, Swimming, France, gold, 2
+2012, Cycling, United States, bronze, 2
+2012, Cycling, Bulgaria, gold, 6
+2012, Rowing, Commonwealth of Independent States, bronze, 5
+2008, Volleyball, Russia, gold, 4
+2004, Tennis, China, silver, 0
+2016, Modern Pentathlon, East Germany, silver, 5
+2012, Synchronized Swimming, West Germany, bronze, 5
+2016, Athletics, Netherlands, gold, 4
+2012, Cycling, Romania, bronze, 3
+2004, Tennis, Switzerland, b, 2
+2008, Modern Pentathlon, East Germany, gold, 1
+2012, Rowing, Denemark, gold, 6
+2004, Gymnastics, Austria, bronze, 2
+2004, Cycling, Denemark, silver, 3
+2008, Modern Pentathlon, Finland, gold, 0
+2008, Gymnastics, Finland, gold, 0
+2008, Tennis, South Korea, bronze, 0
+2012, Gymnastics, Cuba, bronze, 3
+2004, Athletics, Russia, bronze, 4
+2012, Swimming, Belgium, gold, 0
+2016, Football / Soccer, Soviet Union, gold, 2
+2004, Tennis, Great Britain, silver, 0
+2004, Cycling, Romania, bronze, 4
+2016, Football / Soccer, Denemark, silver, 5
+2016, Cycling, Canada, gold, 6
+2016, Cycling, Denemark, bronze, 6
+2012, Swimming, Canada, gold, 5
+2016, Cycling, Australia, bronze, 1
+2012, Gymnastics, Austria, silver, 6
+2004, Gymnastics, Netherlands, silver, 5
+2008, Rowing, Italy, silver, 0
+2012, Athletics, United States, bronze, 2
+2012, Athletics, Belgium, bronze, 0
+2012, Swimming, Commonwealth of Independent States, silver, 4
+2008, Football / Soccer, Cuba, bronze, 2
+2004, Rowing, Czechoslovakia, gold, 1
+2008, Swimming, United States, gold, 6
+2008, Modern Pentathlon, Poland, silver, 2
+2012, Tennis, Romania, silver, 4
+2012, Rowing, Romania, silver, 3
+2008, Rowing, Netherlands, silver, 4
+2004, Modern Pentathlon, Soviet Union, silver, 0
+2016, Gymnastics, Italy, silver, 6
+2012, Rowing, Austria, silver, 2
+2016, Tennis, Denemark, silver, 3
+2016, Volleyball, Russia, gold, 4
+2008, Volleyball, Australia, gold, 0
+2008, Athletics, Commonwealth of Independent States, silver, 3
+2004, Gymnastics, Hungary, gold, 4
+2012, Rowing, Norway, gold, 1
+2008, Swimming, Bulgaria, silver, 1
+2016, Rowing, Canada, gold, 2
+2012, Cycling, Switzerland, silver, 4
+2008, Football / Soccer, Sweden, bronze, 2
+2016, Synchronized Swimming, Italy, bronze, 4
+2004, Volleyball, Turkey, silver, 4
+2016, Volleyball, Sweden, silver, 1
+2016, Volleyball, Canada, gold, 6
+2004, Gymnastics, China, gold, 0
+2008, Rowing, Canada, silver, 3
+2012, Swimming, Poland, gold, 3
+2008, Football / Soccer, United States, bronze, 5
+2016, Gymnastics, Hungary, gold, 2
+2008, Football / Soccer, West Germany, bronze, 4
+8, Football / Soccer, Switzerland, silver, 0
+2008, Football / Soccer, East Germany, gold, 0
+2012, Cycling, Hungary, gold, 3
+2012, Volleyball, Netherlands, silver, 2
+2004, Modern Pentathlon, Bulgaria, bronze, 6
+2008, Modern Pentathlon, Russia, gold, 1
+2016, Modern Pentathlon, Sweden, gold, 3
+2004, Volleyball, France, gold, 0
+2016, Modern Pentathlon, Canada, bronze, 4
+2004, Modern Pentathlon, Japan, silver, 5
+2012, Football / Soccer, South Korea, bronze, 2
+2004, Synchronized Swimming, Canada, gold, 6
+2004, Athletics, Germany, gold, 3
+2012, Synchronized Swimming, Norway, gold, 3
+2008, Cycling, Australia, bronze, 6
+2008, Tennis, France, gold, 3
+2012, Tennis, Denemark, bronze, 1
+2004, Cycling, Italy, silver, 4
+2004, Rowing, Soviet Union, bronze, 5
+2004, Swimming, Canada, silver, 0
+2012, Athletics, Cuba, silver, 4
+2012, Athletics, Canada, silver, 3
+2008, Football / Soccer, Soviet Union, bronze, 0
+2004, Modern Pentathlon, Japan, bronze, 6
+2016, Modern Pentathlon, Russia, gold, 2
+2016, Football / Soccer, Denemark, gold, 1
+2004, Volleyball, Australia, silver, 1
+2012, Rowing, Poland, silver, 5
+2012, Rowing, Russia, bronze, 3
+2008, Cycling, South Korea, bronze, 0
+2016, Cycling, South Korea, bronze, 4
+2004, Rowing, Denemark, gold, 6
+2004, Athletics, Norway, bronze, 3
+2008, Volleyball, Norway, silver, 4
+2004, Rowing, United States, bronze, 3
+2004, Rowing, Australia, gold, 1
+2008, Gymnastics, Cuba, silver, 2
+2012, Swimming, Czechoslovakia, gold, 0
+2004, Modern Pentathlon, Bulgaria, silver, 5
+2012, Cycling, Cuba, gold, 5
+2004, Gymnastics, West Germany, silver, 1
+2008, Synchronized Swimming, Denemark, silver, 4
+2004, Rowing, France, silver, 0
+2016, Volleyball, Bulgaria, bronze, 2
+2016, Football / Soccer, Norway, gold, 4
+2012, Swimming, Denemark, gold, 4
+2004, Athletics, Italy, bronze, 6
+2008, Volleyball, Bulgaria, gold, 4
+2008, Volleyball, Commonwealth of Independent States, silver, 0
+2004, Football / Soccer, France, gold, 5
+2016, Modern Pentathlon, Turkey, bronze, 3
+2008, Tennis, West Germany, bronze, 1
+2012, Swimming, Austria, bronze, 3
+2008, Volleyball, Soviet Union, bronze, 4
+2004, Football / Soccer, Czechoslovakia, bronze, 3
+2016, Volleyball, Commonwealth of Independent States, bronze, 0
+8, Gymnastics, East Germany, bronze, 5
+2012, Swimming, East Germany, gold, 6
+2016, Swimming, Japan, bronze, 5
+2008, Athletics, Italy, b, 5
+2004, Swimming, Netherlands, bronze, 5
+2012, Athletics, Switzerland, silver, 3
+2008, Volleyball, Cuba, gold, 5
+2008, Tennis, Poland, bronze, 4
+2008, Modern Pentathlon, Hungary, silver, 2
+2008, Athletics, West Germany, silver, 3
+2004, Gymnastics, Poland, gold, 4
+2008, Gymnastics, West Germany, silver, 2
+2016, Synchronized Swimming, Netherlands, silver, 2
+2016, Modern Pentathlon, Romania, bronze, 1
+2012, Tennis, Sweden, silver, 6
+2016, Gymnastics, Australia, bronze, 1
+2012, Rowing, China, silver, 1
+2016, Football / Soccer, Australia, gold, 3
+2012, Modern Pentathlon, Japan, gold, 0
+2004, Cycling, Canada, gold, 1
+2008, Synchronized Swimming, Germany, bronze, 1
+2008, Modern Pentathlon, East Germany, silver, 0
+2012, Modern Pentathlon, South Korea, gold, 3
+2008, Tennis, Denemark, gold, 6
+2012, Football / Soccer, Norway, bronze, 3
+2016, Gymnastics, Russia, bronze, 0
+2016, Volleyball, East Germany, bronze, 5
+2008, Gymnastics, Russia, silver, 1
+2016, Synchronized Swimming, Czechoslovakia, gold, 4
+2016, Football / Soccer, Australia, bronze, 0
+2012, Cycling, Czechoslovakia, bronze, 5
+2016, Athletics, Czechoslovakia, gold, 5
+2004, Athletics, Turkey, silver, 0
+2008, Gymnastics, Belgium, gold, 1
+2012, Cycling, Belgium, gold, 5
+2016, Modern Pentathlon, Soviet Union, silver, 3
+2008, Swimming, Romania, silver, 4
+2008, Synchronized Swimming, Cuba, silver, 3
+2016, Volleyball, Germany, bronze, 4
+2016, Rowing, South Korea, bronze, 6
+2004, Volleyball, West Germany, silver, 2
+2004, Modern Pentathlon, Norway, gold, 6
+2008, Cycling, Norway, bronze, 6
+2004, Football / Soccer, Sweden, silver, 4
+8, Football / Soccer, Poland, g, 4
+2016, Modern Pentathlon, Belgium, gold, 5
+2008, Volleyball, Germany, gold, 4
+2012, Cycling, West Germany, gold, 4
+2008, Volleyball, China, gold, 1
+2016, Gymnastics, Bulgaria, silver, 5
+2004, Synchronized Swimming, Australia, b, 2
+2008, Athletics, Soviet Union, bronze, 4
+2012, Cycling, Turkey, silver, 3
+2012, Swimming, Norway, bronze, 0
+2012, Synchronized Swimming, Cuba, silver, 2
+2016, Volleyball, Romania, bronze, 2
+2016, Modern Pentathlon, Japan, bronze, 6
+2008, Synchronized Swimming, Canada, silver, 0
+2004, Volleyball, Bulgaria, gold, 0
+2008, Athletics, Germany, silver, 4
+2008, Football / Soccer, Finland, bronze, 4
+2016, Tennis, Poland, bronze, 5
+2004, Modern Pentathlon, South Korea, gold, 6
+2016, Football / Soccer, France, silver, 4
+2004, Tennis, France, gold, 2
+2008, Football / Soccer, Austria, gold, 5
+2008, Volleyball, Austria, bronze, 0
+2016, Football / Soccer, West Germany, silver, 4
+2008, Volleyball, Norway, bronze, 2
+2016, Synchronized Swimming, West Germany, gold, 2
+2016, Modern Pentathlon, Bulgaria, gold, 3
+2012, Modern Pentathlon, Turkey, gold, 5
+2008, Synchronized Swimming, Great Britain, bronze, 5
+2012, Tennis, Turkey, bronze, 4
+2012, Gymnastics, Cuba, silver, 6
+2004, Modern Pentathlon, Sweden, gold, 2
+2012, Swimming, West Germany, gold, 4
+2016, Football / Soccer, United States, gold, 4
+2004, Cycling, Switzerland, silver, 0
+2012, Volleyball, United States, bronze, 2
+2012, Football / Soccer, Switzerland, s, 6
+2012, Volleyball, Japan, silver, 5
+2012, Football / Soccer, West Germany, gold, 1
+2016, Cycling, Bulgaria, gold, 0
+2016, Athletics, West Germany, bronze, 3
+2008, Tennis, Italy, silver, 4
+2012, Modern Pentathlon, China, gold, 2
+2004, Modern Pentathlon, Switzerland, gold, 1
+2004, Athletics, France, gold, 2
+2016, Synchronized Swimming, Soviet Union, gold, 0
+2016, Rowing, France, gold, 4
+2008, Rowing, West Germany, b, 6
+2008, Football / Soccer, Romania, gold, 1
+2008, Synchronized Swimming, South Korea, silver, 2
+2012, Volleyball, Finland, silver, 6
+2004, Volleyball, Germany, silver, 6
+2004, Gymnastics, Hungary, silver, 3
+2016, Swimming, France, silver, 0
+2012, Athletics, Czechoslovakia, gold, 2
+2004, Cycling, Germany, gold, 2
+2012, Football / Soccer, Soviet Union, bronze, 4
+8, Cycling, Cuba, gold, 0
+2008, Modern Pentathlon, Finland, silver, 2
+2004, Synchronized Swimming, Belgium, silver, 1
+2016, Modern Pentathlon, West Germany, gold, 5
+2004, Tennis, Canada, bronze, 3
+2012, Football / Soccer, Japan, gold, 1
+2004, Swimming, Italy, silver, 1
+2016, Football / Soccer, Belgium, bronze, 1
+2008, Football / Soccer, Belgium, bronze, 2
+2016, Synchronized Swimming, Switzerland, bronze, 6
+2016, Athletics, Belgium, gold, 1
+2016, Swimming, Germany, gold, 3
+2016, Cycling, Canada, silver, 0
+2008, Rowing, Australia, bronze, 3
+2008, Athletics, Australia, bronze, 1
+2004, Tennis, South Korea, silver, 1
+2004, Modern Pentathlon, Norway, bronze, 0
+2004, Synchronized Swimming, Netherlands, bronze, 6
+2004, Modern Pentathlon, Denemark, silver, 3
+2004, Volleyball, Italy, bronze, 2
+2008, Swimming, Soviet Union, silver, 0
+2012, Cycling, France, silver, 3
+2016, Football / Soccer, Cuba, silver, 6
+2016, Rowing, Canada, silver, 2
+2012, Football / Soccer, Great Britain, gold, 2
+2008, Athletics, Switzerland, gold, 0
+2008, Swimming, Cuba, gold, 1
+2008, Cycling, Turkey, bronze, 1
+2008, Gymnastics, Finland, silver, 4
+2012, Rowing, United States, silver, 4
+2004, Cycling, Great Britain, gold, 3
+2012, Synchronized Swimming, Switzerland, bronze, 6
+2012, Volleyball, Austria, silver, 4
+2004, Athletics, United States, gold, 6
+2016, Swimming, Australia, silver, 6
+2016, Modern Pentathlon, Poland, silver, 3
+2004, Synchronized Swimming, Canada, silver, 0
+2012, Modern Pentathlon, Italy, gold, 0
+2008, Rowing, Belgium, gold, 4
+2004, Tennis, France, bronze, 2
+2016, Synchronized Swimming, Hungary, silver, 5
+2012, Gymnastics, Belgium, gold, 3
+2008, Athletics, South Korea, gold, 4
+2012, Synchronized Swimming, Bulgaria, bronze, 0
+2016, Tennis, Poland, silver, 4
+2016, Tennis, Belgium, bronze, 3
+2016, Gymnastics, Bulgaria, bronze, 2
+2016, Gymnastics, Commonwealth of Independent States, bronze, 2
+2012, Football / Soccer, East Germany, gold, 5
+2004, Tennis, Norway, silver, 0
+2004, Cycling, Finland, bronze, 1
+2004, Swimming, Sweden, gold, 1
+2012, Athletics, Canada, gold, 1
+2016, Cycling, Russia, silver, 6
+2016, Football / Soccer, Czechoslovakia, silver, 0
+2012, Volleyball, United States, silver, 3
+2012, Cycling, Australia, silver, 5
+2004, Football / Soccer, Japan, gold, 4
+2008, Cycling, Switzerland, silver, 3
+2012, Modern Pentathlon, Norway, silver, 6
+2016, Volleyball, Romania, silver, 6
+2016, Cycling, Great Britain, bronze, 2
+2008, Football / Soccer, Finland, silver, 0
+2016, Volleyball, Belgium, gold, 1
+2004, Athletics, Netherlands, silver, 1
+2004, Gymnastics, Norway, silver, 0
+2008, Tennis, Australia, silver, 3
+2016, Gymnastics, Germany, bronze, 3
+2016, Gymnastics, Belgium, silver, 0
+2008, Football / Soccer, Netherlands, bronze, 5
+2012, Volleyball, Finland, gold, 1
+2016, Rowing, Italy, silver, 2
+2004, Swimming, Italy, gold, 0
+2012, Modern Pentathlon, Norway, gold, 4
+2008, Tennis, West Germany, gold, 4
+2008, Swimming, Bulgaria, bronze, 6
+2008, Cycling, France, bronze, 3
+2016, Synchronized Swimming, Australia, g, 4
+2016, Tennis, China, bronze, 5
+2012, Synchronized Swimming, Netherlands, bronze, 3
+2012, Volleyball, Canada, s, 3
+2008, Gymnastics, Austria, gold, 6
+2012, Cycling, Finland, gold, 6
+2004, Volleyball, South Korea, silver, 5
+2004, Athletics, Czechoslovakia, gold, 2
+2012, Tennis, East Germany, gold, 1
+2004, Tennis, Austria, silver, 0
+2004, Gymnastics, Great Britain, gold, 2
+2012, Rowing, Romania, bronze, 3
+2004, Modern Pentathlon, Australia, silver, 1
+2012, Volleyball, Cuba, silver, 2
+2004, Gymnastics, China, silver, 3
+2008, Swimming, West Germany, silver, 2
+2016, Tennis, Japan, bronze, 2
+2008, Swimming, Sweden, silver, 4
+2008, Swimming, Italy, silver, 5
+2004, Modern Pentathlon, Belgium, silver, 6
+2016, Synchronized Swimming, Turkey, bronze, 3
+8, Gymnastics, Canada, silver, 0
+2012, Cycling, Denemark, silver, 3
+2016, Gymnastics, Denemark, gold, 6
+2016, Volleyball, Great Britain, bronze, 4
+2004, Synchronized Swimming, Commonwealth of Independent States, bronze, 6
+2008, Tennis, Switzerland, gold, 4
+2012, Swimming, Russia, bronze, 6
+2012, Volleyball, Japan, bronze, 3
+2016, Synchronized Swimming, France, silver, 3
+2008, Synchronized Swimming, Sweden, gold, 3
+2004, Synchronized Swimming, Czechoslovakia, silver, 6
+2004, Modern Pentathlon, Commonwealth of Independent States, silver, 3
+2008, Volleyball, Italy, gold, 1
+2012, Modern Pentathlon, United States, bronze, 4
+2008, Synchronized Swimming, Italy, gold, 6
+2016, Swimming, Commonwealth of Independent States, gold, 3
+2016, Tennis, East Germany, bronze, 2
+2008, Volleyball, Belgium, silver, 3
+2008, Synchronized Swimming, Romania, bronze, 0
+2012, Athletics, Russia, silver, 1
+2004, Synchronized Swimming, Germany, gold, 0
+2004, Gymnastics, Russia, silver, 1
+2004, Modern Pentathlon, Hungary, gold, 3
+2016, Rowing, Czechoslovakia, silver, 6
+2004, Athletics, Canada, silver, 4
+2012, Rowing, Belgium, gold, 1
+2004, Synchronized Swimming, Great Britain, bronze, 4
+2004, Modern Pentathlon, United States, gold, 4
+2008, Tennis, Hungary, bronze, 4
+2008, Modern Pentathlon, Hungary, bronze, 5
+2012, Tennis, Czechoslovakia, bronze, 6
+2012, Gymnastics, West Germany, gold, 1
+2004, Synchronized Swimming, Russia, gold, 3
+2012, Tennis, Poland, gold, 4
+2016, Gymnastics, Poland, silver, 4
+2012, Swimming, South Korea, silver, 6
+2004, Swimming, Turkey, silver, 6
+2016, Volleyball, Denemark, bronze, 2
+2008, Swimming, Denemark, bronze, 0
+2012, Athletics, Finland, bronze, 3
+2004, Volleyball, Sweden, gold, 2
+2008, Tennis, Cuba, gold, 6
+2016, Modern Pentathlon, Denemark, gold, 1
+2012, Football / Soccer, Finland, bronze, 1
+2016, Tennis, Austria, gold, 4
+2016, Cycling, Japan, bronze, 0
+2008, Volleyball, Soviet Union, silver, 4
+2012, Tennis, Turkey, silver, 3
+2016, Rowing, Netherlands, bronze, 6
+2012, Swimming, Finland, silver, 4
+2008, Tennis, East Germany, gold, 3
+2004, Cycling, Belgium, silver, 5
+2016, Cycling, West Germany, gold, 4
+2016, Athletics, Soviet Union, gold, 0
+2004, Tennis, Great Britain, gold, 6
+2016, Football / Soccer, Commonwealth of Independent States, silver, 1
+2016, Tennis, Germany, bronze, 0
+2008, Volleyball, Sweden, gold, 1
+2008, Rowing, Turkey, silver, 2
+2012, Athletics, Canada, bronze, 4
+2008, Synchronized Swimming, Netherlands, bronze, 4
+2004, Athletics, Japan, bronze, 3
+2016, Cycling, Turkey, gold, 3
+2012, Tennis, Netherlands, silver, 6
+2012, Rowing, Czechoslovakia, silver, 6
+2004, Athletics, Poland, silver, 3
+2004, Rowing, China, gold, 6
+2016, Volleyball, Poland, gold, 5
+2012, Cycling, Great Britain, silver, 3
+2008, Cycling, Finland, bronze, 5
+2004, Modern Pentathlon, Australia, gold, 4
+2004, Gymnastics, East Germany, gold, 5
+2012, Athletics, Hungary, bronze, 6
+2012, Synchronized Swimming, Denemark, gold, 0
+2008, Gymnastics, Germany, bronze, 2
+2012, Synchronized Swimming, Hungary, silver, 2
+2004, Gymnastics, West Germany, bronze, 4
+2016, Modern Pentathlon, Canada, gold, 4
+2012, Modern Pentathlon, Bulgaria, bronze, 2
+2016, Rowing, Japan, bronze, 2
+2016, Gymnastics, China, silver, 1
+2004, Volleyball, Cuba, bronze, 1
+2004, Athletics, Commonwealth of Independent States, bronze, 0
+2016, Athletics, Australia, gold, 6
+2016, Football / Soccer, West Germany, bronze, 6
+2016, Rowing, Great Britain, bronze, 3
+2008, Athletics, Sweden, bronze, 0
+2016, Cycling, France, bronze, 4
+2008, Swimming, Austria, bronze, 1
+2008, Gymnastics, West Germany, gold, 1
+2004, Swimming, United States, gold, 0
+2004, Tennis, Romania, silver, 1
+2016, Swimming, Austria, bronze, 4
+2008, Tennis, Austria, silver, 1
+2012, Gymnastics, Denemark, silver, 4
+2012, Volleyball, Denemark, gold, 3
+2016, Gymnastics, Cuba, silver, 1
+2008, Modern Pentathlon, Australia, silver, 5
+2008, Gymnastics, South Korea, silver, 2
+2008, Swimming, Norway, gold, 1
+2016, Synchronized Swimming, Japan, bronze, 4
+2012, Synchronized Swimming, United States, gold, 5
+2016, Modern Pentathlon, Austria, bronze, 5
+2004, Athletics, Poland, bronze, 5
+2012, Volleyball, Czechoslovakia, bronze, 4
+2016, Rowing, Turkey, silver, 6
+2016, Rowing, Bulgaria, silver, 0
+2004, Modern Pentathlon, Netherlands, gold, 2
+2008, Football / Soccer, Sweden, gold, 5
+2016, Swimming, Bulgaria, silver, 2
+2016, Synchronized Swimming, Australia, bronze, 2
+2008, Synchronized Swimming, China, gold, 6
+2016, Swimming, East Germany, gold, 4
+2008, Rowing, Norway, silver, 1
+2012, Tennis, South Korea, silver, 6
+8, Gymnastics, Cuba, gold, 1
+2016, Gymnastics, Soviet Union, gold, 5
+2016, Football / Soccer, France, bronze, 1
+2016, Swimming, Austria, silver, 0
+2008, Volleyball, Hungary, silver, 5
+2016, Football / Soccer, Norway, silver, 3
+2008, Rowing, Sweden, bronze, 1
+2012, Rowing, Switzerland, silver, 0
+2008, Gymnastics, Denemark, bronze, 5
+2008, Athletics, Denemark, silver, 3
+2016, Modern Pentathlon, France, silver, 2
+2008, Athletics, Denemark, gold, 0
+2016, Swimming, Turkey, silver, 3
+2004, Tennis, Cuba, gold, 2
+2008, Tennis, Commonwealth of Independent States, bronze, 5
+16, Synchronized Swimming, France, gold, 4
+2016, Athletics, Netherlands, s, 3
+2004, Athletics, West Germany, gold, 3
+2004, Synchronized Swimming, Belgium, bronze, 2
+2004, Athletics, Soviet Union, gold, 2
+2004, Football / Soccer, Hungary, bronze, 3
+2004, Volleyball, West Germany, bronze, 2
+2016, Cycling, Switzerland, bronze, 0
+2012, Volleyball, Romania, gold, 4
+2004, Volleyball, Hungary, gold, 2
+2004, Rowing, Austria, gold, 6
+2008, Modern Pentathlon, Commonwealth of Independent States, silver, 0
+2012, Tennis, Canada, bronze, 5
+2012, Gymnastics, Czechoslovakia, gold, 1
+2004, Gymnastics, United States, bronze, 1
+2012, Cycling, Austria, silver, 2
+2016, Athletics, Commonwealth of Independent States, bronze, 5
+2008, Football / Soccer, West Germany, gold, 4
+2008, Cycling, Romania, gold, 1
+2008, Cycling, Sweden, gold, 5
+2008, Volleyball, Czechoslovakia, gold, 4
+2008, Cycling, Hungary, silver, 0
+2016, Volleyball, West Germany, bronze, 3
+2008, Synchronized Swimming, Belgium, bronze, 5
+2004, Gymnastics, Austria, gold, 5
+2012, Tennis, Canada, gold, 5
+2016, Modern Pentathlon, Finland, bronze, 0
+2008, Cycling, Germany, gold, 0
+2004, Cycling, Switzerland, bronze, 0
+2012, Cycling, East Germany, bronze, 4
+2008, Synchronized Swimming, Cuba, bronze, 5
+2008, Rowing, Bulgaria, gold, 1
+2012, Volleyball, East Germany, bronze, 3
+2008, Tennis, Soviet Union, bronze, 0
+2004, Rowing, Russia, gold, 5
+2004, Cycling, Denemark, bronze, 0
+2016, Athletics, Italy, gold, 5
+2012, Synchronized Swimming, China, gold, 0
+2012, Tennis, East Germany, silver, 2
+2012, Football / Soccer, Canada, silver, 3
+2012, Rowing, France, bronze, 4
+2004, Tennis, Denemark, bronze, 2
+2016, Swimming, Belgium, gold, 4
+2012, Athletics, Soviet Union, gold, 6
+2012, Synchronized Swimming, Poland, bronze, 4
+2008, Volleyball, Cuba, bronze, 1
+2012, Cycling, Australia, bronze, 0
+2016, Rowing, Bulgaria, bronze, 2
+2012, Synchronized Swimming, Russia, bronze, 3
+2012, Synchronized Swimming, Canada, gold, 5
+2004, Swimming, Austria, silver, 2
+2016, Football / Soccer, Finland, silver, 5
+2004, Rowing, West Germany, gold, 5
+2004, Tennis, Bulgaria, silver, 3
+2016, Modern Pentathlon, Norway, gold, 1
+2016, Volleyball, Belgium, silver, 1
+2004, Swimming, China, gold, 1
+2004, Modern Pentathlon, Netherlands, bronze, 4
+2004, Modern Pentathlon, United States, bronze, 5
+2016, Rowing, South Korea, gold, 4
+2012, Volleyball, Turkey, silver, 2
+2008, Football / Soccer, Czechoslovakia, gold, 1
+2008, Swimming, Bulgaria, gold, 0
+2004, Tennis, United States, bronze, 5
+4, Modern Pentathlon, South Korea, bronze, 5
+2016, Football / Soccer, France, gold, 2
+2012, Athletics, Australia, silver, 1
+2012, Gymnastics, United States, silver, 2
+2008, Synchronized Swimming, Turkey, gold, 5
+2004, Volleyball, Norway, bronze, 6
+2016, Rowing, Commonwealth of Independent States, bronze, 5
+2008, Modern Pentathlon, Poland, bronze, 4
+2008, Tennis, Belgium, gold, 6
+2004, Gymnastics, Commonwealth of Independent States, gold, 2
+2016, Volleyball, Netherlands, bronze, 4
+2004, Tennis, Czechoslovakia, gold, 2
+2016, Cycling, Germany, gold, 2
+2012, Cycling, Canada, silver, 4
+2008, Modern Pentathlon, Commonwealth of Independent States, bronze, 1
+2016, Volleyball, Australia, bronze, 6
+2008, Football / Soccer, Japan, gold, 1
+2008, Rowing, France, gold, 1
+2008, Athletics, Poland, gold, 1
+2016, Tennis, Japan, silver, 4
+2016, Swimming, Russia, silver, 4
+2008, Synchronized Swimming, Canada, bronze, 1
+2004, Athletics, East Germany, silver, 5
+2004, Football / Soccer, East Germany, bronze, 2
+2012, Football / Soccer, West Germany, bronze, 4
+2012, Athletics, Russia, gold, 2
+2008, Modern Pentathlon, Canada, bronze, 3
+2012, Football / Soccer, Austria, gold, 4
+2012, Athletics, East Germany, silver, 2
+2008, Volleyball, Great Britain, bronze, 5
+2004, Rowing, South Korea, silver, 6
+2016, Rowing, West Germany, gold, 3
+2016, Athletics, Sweden, gold, 4
+2008, Rowing, United States, silver, 1
+2008, Synchronized Swimming, Turkey, bronze, 6
+2004, Synchronized Swimming, South Korea, silver, 4
+2016, Tennis, Soviet Union, bronze, 3
+2016, Gymnastics, Netherlands, silver, 2
+2012, Volleyball, Turkey, gold, 1
+2012, Synchronized Swimming, Denemark, silver, 0
+2008, Football / Soccer, Germany, g, 6
+2008, Cycling, Sweden, bronze, 3
+2012, Tennis, Norway, silver, 1
+2008, Tennis, Austria, gold, 3
+2012, Volleyball, Romania, silver, 4
+16, Athletics, Great Britain, gold, 3
+2012, Synchronized Swimming, Japan, bronze, 4
+2012, Athletics, Germany, gold, 1
+2012, Modern Pentathlon, South Korea, bronze, 2
+2004, Athletics, Hungary, bronze, 2
+2008, Volleyball, France, bronze, 1
+2016, Football / Soccer, United States, bronze, 5
+2004, Gymnastics, Canada, silver, 5
+2016, Rowing, Denemark, gold, 2
+2012, Football / Soccer, Czechoslovakia, g, 1
+2012, Swimming, Italy, silver, 0
+2004, Tennis, Japan, bronze, 1
+2012, Synchronized Swimming, South Korea, silver, 0
+2004, Cycling, Poland, gold, 4
+2016, Modern Pentathlon, Czechoslovakia, silver, 2
+2012, Tennis, United States, gold, 6
+2012, Synchronized Swimming, Canada, bronze, 2
+2004, Rowing, East Germany, gold, 6
+2004, Gymnastics, Romania, bronze, 1
+12, Volleyball, Denemark, bronze, 0
+2008, Football / Soccer, Great Britain, gold, 2
+2012, Synchronized Swimming, Romania, gold, 4
+2012, Gymnastics, United States, gold, 0
+2016, Cycling, Belgium, s, 4
+2008, Tennis, Japan, silver, 6
+2008, Tennis, Belgium, bronze, 5
+2016, Cycling, Finland, bronze, 0
+2016, Athletics, Bulgaria, gold, 2
+2016, Volleyball, Finland, bronze, 2
+2004, Modern Pentathlon, Russia, bronze, 3
+2008, Synchronized Swimming, Bulgaria, gold, 2
+2016, Volleyball, Canada, silver, 0
+2008, Football / Soccer, Belgium, gold, 5
+2004, Gymnastics, Germany, gold, 6
+2008, Tennis, Norway, bronze, 0
+2012, Rowing, West Germany, silver, 3
+2004, Tennis, Turkey, bronze, 1
+2016, Cycling, Hungary, silver, 0
+2008, Football / Soccer, Canada, silver, 6
+2012, Cycling, Commonwealth of Independent States, silver, 4
+2008, Volleyball, Japan, gold, 2
+2016, Athletics, Czechoslovakia, bronze, 6
+2012, Volleyball, France, silver, 3
+2012, Athletics, Cuba, gold, 2
+2004, Athletics, United States, silver, 5
+12, Athletics, Soviet Union, bronze, 5
+2008, Gymnastics, Italy, gold, 4
+2012, Rowing, Austria, g, 6
+2016, Synchronized Swimming, Turkey, gold, 3
+2016, Tennis, Great Britain, bronze, 2
+2016, Rowing, Italy, gold, 3
+2016, Synchronized Swimming, China, gold, 5
+2016, Rowing, Hungary, bronze, 6
+2008, Swimming, Poland, gold, 4
+2012, Rowing, Poland, bronze, 0
+2012, Rowing, Japan, gold, 6
+2008, Tennis, Japan, b, 3
+2016, Swimming, East Germany, bronze, 4
+2004, Gymnastics, France, silver, 3
+2012, Modern Pentathlon, Commonwealth of Independent States, gold, 0
+2004, Modern Pentathlon, Austria, silver, 6
+2004, Modern Pentathlon, Austria, gold, 5
+2004, Rowing, Turkey, gold, 0
+2016, Volleyball, Japan, gold, 3
+2008, Volleyball, Hungary, gold, 4
+2016, Rowing, Australia, bronze, 0
+2008, Swimming, Switzerland, silver, 0
+2008, Modern Pentathlon, Australia, gold, 0
+2004, Swimming, Czechoslovakia, bronze, 6
+12, Volleyball, Switzerland, bronze, 2
+2016, Athletics, Norway, gold, 5
+2008, Rowing, Australia, silver, 6
+2004, Tennis, Austria, gold, 3
+2016, Synchronized Swimming, East Germany, silver, 3
+2016, Gymnastics, Italy, bronze, 0
+2008, Athletics, East Germany, gold, 3
+2008, Gymnastics, Sweden, silver, 4
+2016, Athletics, Denemark, bronze, 1
+2012, Cycling, Netherlands, bronze, 2
+2016, Gymnastics, Belgium, bronze, 4
+2004, Cycling, Poland, silver, 5
+2012, Athletics, Norway, gold, 1
+2016, Football / Soccer, Poland, bronze, 2
+2008, Synchronized Swimming, Czechoslovakia, bronze, 0
+2004, Athletics, United States, bronze, 5
+2012, Modern Pentathlon, Australia, gold, 2
+2012, Synchronized Swimming, Commonwealth of Independent States, silver, 3
+2004, Volleyball, Romania, gold, 4
+2016, Athletics, China, silver, 4
+2012, Football / Soccer, United States, gold, 3
+2004, Gymnastics, Germany, silver, 1
+2008, Tennis, Finland, gold, 6
+2016, Gymnastics, Russia, gold, 3
+2012, Synchronized Swimming, Norway, bronze, 2
+2008, Synchronized Swimming, Romania, silver, 0
+2004, Rowing, United States, silver, 1
+2016, Volleyball, United States, silver, 3
+2012, Athletics, Sweden, silver, 2
+2016, Tennis, Czechoslovakia, gold, 6
+2016, Cycling, West Germany, bronze, 1
+2016, Football / Soccer, Japan, silver, 3
+2012, Gymnastics, Turkey, gold, 1
+2008, Modern Pentathlon, France, gold, 5
+2016, Cycling, United States, silver, 2
+2012, Football / Soccer, Australia, bronze, 5
+2004, Cycling, Netherlands, silver, 3
+2004, Rowing, Denemark, bronze, 4
+2008, Tennis, Switzerland, bronze, 1
+2008, Synchronized Swimming, Canada, gold, 4
+2012, Football / Soccer, Germany, s, 2
+2016, Swimming, Italy, silver, 2
+2012, Cycling, Sweden, gold, 0
+2004, Football / Soccer, Soviet Union, gold, 4
+2012, Tennis, France, g, 4
+2016, Rowing, Belgium, bronze, 6
+2016, Modern Pentathlon, Netherlands, bronze, 4
+2016, Synchronized Swimming, China, b, 2
+2016, Athletics, China, bronze, 0
+2008, Synchronized Swimming, Poland, silver, 4
+2008, Modern Pentathlon, France, b, 1
+2012, Athletics, West Germany, bronze, 5
+2012, Gymnastics, Austria, gold, 2
+2016, Athletics, Great Britain, silver, 5
+2016, Rowing, Turkey, gold, 0
+2016, Cycling, Netherlands, bronze, 1
+2016, Gymnastics, United States, b, 1
+2016, Volleyball, Netherlands, gold, 3
+2016, Cycling, Italy, gold, 0
+2016, Football / Soccer, Netherlands, bronze, 3
+2016, Cycling, Norway, gold, 1
+2016, Swimming, China, silver, 6
+2012, Swimming, Poland, s, 3
+2004, Rowing, Belgium, silver, 5
+2004, Athletics, Belgium, bronze, 1
+2016, Cycling, Germany, silver, 2
+2012, Football / Soccer, Cuba, silver, 1
+2004, Football / Soccer, Turkey, bronze, 3
+2012, Tennis, East Germany, bronze, 4
+2012, Cycling, China, gold, 4
+2004, Cycling, Cuba, bronze, 0
+2016, Rowing, France, silver, 1
+2016, Gymnastics, South Korea, gold, 4
+2012, Swimming, France, silver, 1
+2016, Rowing, Switzerland, gold, 1
+2008, Cycling, Denemark, silver, 3
+2008, Tennis, South Korea, silver, 1
+2008, Swimming, Belgium, bronze, 5
+2004, Tennis, Australia, silver, 5
+2012, Modern Pentathlon, China, bronze, 6
+2012, Cycling, Turkey, gold, 1
+2004, Tennis, Soviet Union, bronze, 6
+16, Football / Soccer, Hungary, bronze, 5
+2004, Athletics, Cuba, silver, 0
+16, Modern Pentathlon, Japan, silver, 5
+2008, Modern Pentathlon, Sweden, bronze, 0
+2008, Synchronized Swimming, Japan, gold, 6
+2016, Football / Soccer, Germany, bronze, 5
+2012, Modern Pentathlon, Cuba, gold, 0
+2004, Cycling, Russia, gold, 2
+2004, Modern Pentathlon, Cuba, gold, 5
+2004, Athletics, Soviet Union, silver, 4
+2008, Rowing, Denemark, b, 0
+2008, Gymnastics, Canada, bronze, 1
+2012, Football / Soccer, Russia, silver, 5
+2012, Athletics, Netherlands, gold, 5
+2008, Cycling, West Germany, gold, 0
+2004, Athletics, Commonwealth of Independent States, gold, 0
+2016, Volleyball, South Korea, gold, 0
+2008, Modern Pentathlon, United States, silver, 6
+2016, Swimming, Australia, bronze, 2
+2008, Cycling, France, gold, 4
+2016, Cycling, Great Britain, silver, 1
+2008, Tennis, Sweden, bronze, 4
+2008, Volleyball, Austria, silver, 3
+2016, Tennis, China, gold, 0
+2004, Gymnastics, Japan, gold, 6
+2012, Volleyball, Italy, bronze, 4
+2016, Volleyball, Russia, bronze, 4
+2008, Rowing, Commonwealth of Independent States, silver, 4
+2016, Cycling, Austria, gold, 0
+2004, Cycling, Commonwealth of Independent States, gold, 4
+2016, Cycling, Poland, gold, 0
+2016, Tennis, West Germany, silver, 3
+2004, Swimming, Cuba, gold, 4
+2008, Rowing, Great Britain, gold, 6
+2008, Synchronized Swimming, East Germany, bronze, 5
+2012, Gymnastics, Netherlands, bronze, 5
+2012, Athletics, Poland, silver, 0
+2012, Gymnastics, Australia, bronze, 2
+2012, Rowing, Norway, silver, 1
+2016, Football / Soccer, Czechoslovakia, bronze, 5
+2016, Rowing, Austria, bronze, 0
+2012, Synchronized Swimming, Finland, gold, 0
+2012, Swimming, China, silver, 0
+2016, Cycling, Czechoslovakia, gold, 0
+2012, Volleyball, Australia, bronze, 0
+2008, Modern Pentathlon, Japan, gold, 0
+2008, Tennis, Netherlands, bronze, 2
+2012, Rowing, Soviet Union, b, 5
+2004, Swimming, Bulgaria, gold, 1
+2012, Rowing, Finland, gold, 2
+2016, Gymnastics, Japan, bronze, 5
+2012, Volleyball, Austria, bronze, 6
+2016, Athletics, Commonwealth of Independent States, gold, 5
+2012, Rowing, Turkey, bronze, 0
+2004, Gymnastics, Finland, gold, 0
+2016, Rowing, Soviet Union, silver, 4
+2004, Gymnastics, Romania, gold, 1
+2004, Modern Pentathlon, France, gold, 2
+2008, Tennis, Netherlands, gold, 4
+2008, Modern Pentathlon, Norway, gold, 5
+2012, Modern Pentathlon, Commonwealth of Independent States, bronze, 4
+2004, Football / Soccer, Norway, bronze, 2
+2012, Football / Soccer, Australia, silver, 2
+2012, Synchronized Swimming, Belgium, silver, 3
+2004, Modern Pentathlon, Hungary, silver, 4
+2016, Volleyball, Italy, gold, 5
+2012, Volleyball, Poland, silver, 1
+2012, Rowing, Cuba, bronze, 1
+2016, Gymnastics, Great Britain, gold, 2
+2004, Rowing, France, gold, 0
+2012, Athletics, East Germany, gold, 0
+2008, Football / Soccer, Switzerland, bronze, 1
+2004, Synchronized Swimming, Poland, bronze, 4
+2008, Modern Pentathlon, West Germany, silver, 4
+2016, Cycling, Austria, bronze, 4
+2016, Synchronized Swimming, Switzerland, gold, 4
+2012, Rowing, China, bronze, 0
+2008, Volleyball, East Germany, gold, 5
+2004, Swimming, Australia, gold, 0
+2012, Tennis, Australia, bronze, 2
+2012, Gymnastics, Switzerland, silver, 1
+2016, Cycling, France, silver, 2
+2012, Synchronized Swimming, Canada, silver, 4
+2008, Football / Soccer, Netherlands, gold, 4
+2016, Gymnastics, South Korea, silver, 4
+2004, Football / Soccer, West Germany, silver, 6
+2004, Volleyball, Soviet Union, gold, 1
+2008, Athletics, Netherlands, gold, 1
+2004, Volleyball, East Germany, gold, 4
+2012, Swimming, Russia, gold, 2
+2012, Football / Soccer, Japan, bronze, 3
+2004, Football / Soccer, Russia, silver, 2
+2008, Swimming, Germany, silver, 0
+2008, Volleyball, Romania, bronze, 0
+2008, Cycling, Poland, silver, 5
+2016, Tennis, East Germany, silver, 5
+2016, Athletics, Japan, gold, 2
+2016, Athletics, France, gold, 2
+2008, Athletics, Commonwealth of Independent States, gold, 5
+2008, Swimming, Russia, silver, 1
+2012, Cycling, Cuba, silver, 2
+2004, Volleyball, Belgium, bronze, 6
+2008, Gymnastics, Italy, silver, 3
+2004, Athletics, Romania, silver, 4
+2012, Tennis, Italy, gold, 1
+2012, Swimming, Japan, bronze, 4
+2012, Swimming, Netherlands, bronze, 2
+2012, Swimming, China, bronze, 0
+2004, Tennis, South Korea, gold, 6
+2012, Gymnastics, Sweden, gold, 3
+2004, Tennis, Commonwealth of Independent States, gold, 1
+2016, Modern Pentathlon, Czechoslovakia, gold, 3
+2008, Athletics, Great Britain, silver, 0
+8, Cycling, Russia, silver, 4
+2004, Swimming, Soviet Union, gold, 2
+2008, Modern Pentathlon, Romania, gold, 6
+2016, Athletics, Cuba, g, 0
+2012, Athletics, Romania, gold, 3
+2016, Athletics, East Germany, bronze, 5
+2012, Cycling, Australia, gold, 0
+2016, Swimming, Cuba, gold, 5
+2008, Modern Pentathlon, Italy, bronze, 0
+2012, Volleyball, Turkey, bronze, 4
+2008, Swimming, Denemark, gold, 1
+2004, Swimming, Canada, bronze, 4
+2004, Volleyball, Japan, gold, 2
+2008, Football / Soccer, Austria, silver, 1
+2008, Cycling, Italy, gold, 3
+2004, Volleyball, France, silver, 2
+2016, Volleyball, Switzerland, silver, 2
+2004, Volleyball, East Germany, silver, 6
+2012, Football / Soccer, Netherlands, gold, 0
+2008, Football / Soccer, Poland, bronze, 4
+8, Synchronized Swimming, Belgium, silver, 1
+2008, Volleyball, Netherlands, bronze, 1
+2016, Synchronized Swimming, Commonwealth of Independent States, silver, 4
+2004, Football / Soccer, Belgium, silver, 4
+2016, Gymnastics, United States, gold, 5
+2008, Swimming, Italy, gold, 0
+2016, Rowing, Russia, bronze, 6
+2016, Modern Pentathlon, Netherlands, gold, 0
+2008, Gymnastics, Commonwealth of Independent States, bronze, 2
+2008, Synchronized Swimming, Commonwealth of Independent States, silver, 1
+2016, Synchronized Swimming, Netherlands, gold, 0
+2012, Football / Soccer, Cuba, bronze, 2
+2004, Football / Soccer, Finland, bronze, 6
+2012, Tennis, Soviet Union, gold, 3
+2012, Volleyball, Commonwealth of Independent States, gold, 0
+2012, Modern Pentathlon, Japan, silver, 6
+2004, Rowing, Romania, gold, 3
+2008, Swimming, East Germany, silver, 4
+2016, Modern Pentathlon, Russia, bronze, 3
+2016, Gymnastics, Poland, gold, 4
+2004, Gymnastics, East Germany, bronze, 4
+2008, Tennis, Austria, bronze, 6
+2008, Volleyball, West Germany, gold, 5
+2012, Tennis, Turkey, gold, 2
+2008, Tennis, Romania, silver, 3
+2004, Gymnastics, Finland, silver, 1
+2012, Tennis, West Germany, bronze, 2
+2008, Tennis, Bulgaria, bronze, 2
+2012, Modern Pentathlon, Belgium, gold, 2
+2008, Synchronized Swimming, United States, bronze, 2
+2012, Volleyball, Canada, gold, 0
+2004, Cycling, Great Britain, silver, 5
+2008, Swimming, Italy, bronze, 5
+2004, Cycling, Austria, bronze, 4
+2004, Gymnastics, Denemark, silver, 5
+2004, Tennis, Poland, silver, 0
+2012, Rowing, Canada, silver, 0
+2012, Gymnastics, Germany, gold, 2
+2016, Cycling, Italy, silver, 4
+2004, Swimming, Romania, silver, 4
+2008, Cycling, Germany, bronze, 3
+2008, Rowing, Japan, silver, 4
+2016, Tennis, Finland, gold, 6
+2008, Gymnastics, France, gold, 0
+2004, Football / Soccer, Italy, bronze, 0
+2016, Volleyball, Russia, silver, 1
+2012, Volleyball, Australia, gold, 4
+2004, Synchronized Swimming, Italy, gold, 2
+2008, Swimming, Japan, bronze, 0
+2004, Swimming, Sweden, bronze, 2
+2012, Rowing, France, silver, 5
+2004, Tennis, China, bronze, 2
+2012, Swimming, Turkey, bronze, 6
+2012, Gymnastics, Sweden, silver, 1
+2016, Athletics, Austria, gold, 5
+2004, Athletics, Australia, gold, 0
+2008, Tennis, Turkey, gold, 6
+2012, Swimming, Soviet Union, bronze, 3
+2012, Gymnastics, Denemark, gold, 5
+2012, Volleyball, Norway, bronze, 3
+2008, Rowing, Japan, bronze, 2
+2012, Gymnastics, Commonwealth of Independent States, bronze, 2
+2012, Synchronized Swimming, China, bronze, 4
+2012, Football / Soccer, West Germany, silver, 6
+2004, Synchronized Swimming, West Germany, silver, 6
+2012, Tennis, China, silver, 5
+2004, Football / Soccer, Denemark, bronze, 5
+2008, Gymnastics, Russia, bronze, 4
+2008, Modern Pentathlon, Czechoslovakia, bronze, 3
+2008, Gymnastics, Hungary, bronze, 4
+2004, Volleyball, Commonwealth of Independent States, gold, 1
+2016, Football / Soccer, South Korea, gold, 5
+2008, Volleyball, Belgium, bronze, 0
+2016, Modern Pentathlon, West Germany, s, 1
+2012, Cycling, Austria, bronze, 2
+2008, Rowing, Japan, gold, 6
+2016, Football / Soccer, Great Britain, gold, 0
+2012, Cycling, Netherlands, gold, 0
+2016, Gymnastics, Japan, s, 0
+2004, Football / Soccer, Canada, gold, 5
+2012, Gymnastics, Bulgaria, gold, 0
+2016, Modern Pentathlon, Czechoslovakia, bronze, 4
+2016, Cycling, Soviet Union, bronze, 3
+2016, Athletics, Australia, bronze, 3
+2008, Synchronized Swimming, France, bronze, 1
+2004, Cycling, South Korea, gold, 0
+2012, Swimming, Finland, gold, 5
+2008, Gymnastics, Great Britain, gold, 1
+2012, Cycling, Netherlands, silver, 2
+2004, Athletics, Italy, gold, 4
+2008, Swimming, Cuba, bronze, 4
+2012, Cycling, Belgium, bronze, 5
+2016, Volleyball, Commonwealth of Independent States, gold, 2
+2004, Gymnastics, Austria, silver, 1
+2008, Swimming, Japan, gold, 3
+2016, Swimming, United States, gold, 3
+2008, Synchronized Swimming, Soviet Union, gold, 6
+2012, Gymnastics, East Germany, bronze, 6
+2016, Rowing, United States, bronze, 0
+2016, Football / Soccer, Canada, bronze, 3
+2008, Modern Pentathlon, Austria, silver, 5
+2008, Tennis, South Korea, gold, 5
+2004, Volleyball, Finland, bronze, 6
+2016, Athletics, East Germany, gold, 3
+2008, Volleyball, Finland, gold, 5
+2008, Football / Soccer, Commonwealth of Independent States, bronze, 2
+2016, Swimming, Great Britain, bronze, 4
+2012, Swimming, Denemark, bronze, 5
+2004, Cycling, Finland, gold, 6
+2004, Tennis, Norway, bronze, 3
+2012, Volleyball, Cuba, gold, 4
+4, Football / Soccer, China, silver, 2
+2012, Synchronized Swimming, Germany, bronze, 1
+2016, Synchronized Swimming, Russia, bronze, 4
+2016, Swimming, France, bronze, 2
+2004, Modern Pentathlon, Soviet Union, bronze, 5
+2016, Modern Pentathlon, Cuba, bronze, 0
+2012, Modern Pentathlon, Austria, gold, 3
+2016, Modern Pentathlon, Soviet Union, gold, 1
+2008, Modern Pentathlon, Soviet Union, bronze, 2
+2012, Athletics, Norway, bronze, 0
+2016, Volleyball, Bulgaria, silver, 6
+2008, Tennis, China, gold, 5
+2004, Swimming, Finland, silver, 3
+2008, Football / Soccer, Soviet Union, silver, 6
+16, Football / Soccer, Canada, silver, 0
+2012, Football / Soccer, Commonwealth of Independent States, silver, 6
+2004, Gymnastics, Netherlands, bronze, 5
+2016, Football / Soccer, Australia, silver, 2
+2004, Cycling, Czechoslovakia, bronze, 1
+2008, Cycling, Turkey, silver, 0
+2016, Cycling, Belgium, bronze, 5
+2008, Tennis, China, bronze, 4
+2016, Swimming, Denemark, bronze, 2
+2016, Rowing, Great Britain, gold, 0
+2016, Cycling, Switzerland, gold, 6
+2016, Synchronized Swimming, Switzerland, silver, 4
+2004, Football / Soccer, South Korea, gold, 3
+2016, Gymnastics, China, gold, 3
+2012, Synchronized Swimming, Belgium, gold, 0
+2004, Volleyball, Great Britain, gold, 4
+2016, Gymnastics, Finland, bronze, 0
+2012, Synchronized Swimming, Japan, gold, 6
+2016, Rowing, Turkey, bronze, 4
+2004, Rowing, West Germany, bronze, 2
+2012, Tennis, Bulgaria, silver, 6
+2012, Swimming, Sweden, silver, 2
+2012, Gymnastics, Russia, gold, 2
+2012, Rowing, Czechoslovakia, bronze, 0
+2004, Rowing, Italy, bronze, 2
+2008, Volleyball, Russia, bronze, 2
+2012, Rowing, Soviet Union, gold, 0
+2012, Synchronized Swimming, South Korea, bronze, 5
+2016, Rowing, Sweden, gold, 2
+2008, Football / Soccer, Germany, silver, 0
+2012, Football / Soccer, Russia, bronze, 3
+2004, Volleyball, Czechoslovakia, bronze, 2
+2016, Tennis, Finland, bronze, 1
+2008, Volleyball, Czechoslovakia, bronze, 3
+2004, Rowing, Commonwealth of Independent States, gold, 3
+2012, Volleyball, Bulgaria, bronze, 6
+2008, Swimming, Great Britain, gold, 1
+2012, Athletics, South Korea, bronze, 3
+2004, Gymnastics, Finland, bronze, 6
+2008, Rowing, Canada, gold, 2
+2016, Synchronized Swimming, Cuba, gold, 4
+2004, Tennis, West Germany, bronze, 4
+2008, Tennis, Cuba, bronze, 4
+2012, Athletics, Germany, silver, 5
+2004, Rowing, South Korea, gold, 5
+2016, Synchronized Swimming, France, bronze, 2
+2008, Athletics, Sweden, gold, 1
+2012, Football / Soccer, United States, bronze, 4
+2012, Tennis, Cuba, silver, 5
+2004, Rowing, China, silver, 4
+2012, Tennis, Soviet Union, silver, 0
+2016, Athletics, Russia, silver, 2
+2004, Tennis, Turkey, gold, 5
+2004, Athletics, Germany, bronze, 6
+2004, Tennis, Norway, g, 1
+2008, Football / Soccer, Cuba, silver, 5
+2004, Cycling, Germany, silver, 6
+2012, Football / Soccer, Netherlands, silver, 0
+2008, Athletics, Austria, bronze, 1
+2016, Synchronized Swimming, Australia, silver, 1
+2012, Swimming, Switzerland, bronze, 4
+2004, Tennis, Great Britain, bronze, 0
+2004, Football / Soccer, Czechoslovakia, gold, 3
+2008, Synchronized Swimming, West Germany, bronze, 5
+2012, Modern Pentathlon, Cuba, bronze, 6
+2012, Football / Soccer, Romania, silver, 1
+2004, Synchronized Swimming, United States, bronze, 5
+2012, Cycling, Russia, bronze, 0
+2008, Cycling, Belgium, silver, 3
+2016, Synchronized Swimming, Japan, gold, 2
+2016, Football / Soccer, Italy, bronze, 4
+2008, Cycling, Netherlands, silver, 0
+2012, Tennis, Belgium, silver, 3
+2016, Tennis, Romania, bronze, 6
+2016, Swimming, Great Britain, silver, 2
+8, Synchronized Swimming, Norway, silver, 2
+2004, Cycling, United States, bronze, 5
+2012, Athletics, Poland, gold, 6
+2012, Tennis, Romania, gold, 2
+2016, Rowing, China, silver, 0
+2012, Synchronized Swimming, United States, bronze, 4
+2012, Modern Pentathlon, Denemark, silver, 6
+2016, Football / Soccer, Hungary, gold, 2
+2012, Tennis, Russia, silver, 0
+2008, Modern Pentathlon, China, bronze, 5
+2016, Football / Soccer, Netherlands, gold, 0
+2004, Gymnastics, Turkey, gold, 0
+2012, Tennis, France, bronze, 0
+2004, Swimming, Sweden, silver, 3
+2012, Gymnastics, China, silver, 5
+2016, Tennis, Switzerland, gold, 2
+2004, Football / Soccer, Netherlands, gold, 1
+2004, Modern Pentathlon, Commonwealth of Independent States, bronze, 5
+2004, Gymnastics, Turkey, bronze, 3
+2016, Tennis, Netherlands, silver, 3
+2008, Rowing, South Korea, gold, 3
+2004, Swimming, France, bronze, 5
+2008, Tennis, East Germany, bronze, 5
+2008, Athletics, Romania, silver, 4
+2012, Cycling, Japan, bronze, 5
+2012, Rowing, Switzerland, bronze, 0
+12, Swimming, Romania, silver, 4
+2004, Synchronized Swimming, Cuba, silver, 5
+16, Modern Pentathlon, Commonwealth of Independent States, gold, 5
+2008, Rowing, Belgium, bronze, 6
+2016, Tennis, Bulgaria, silver, 6
+2004, Synchronized Swimming, Poland, silver, 1
+2016, Volleyball, Poland, silver, 3
+2012, Rowing, Sweden, gold, 6
+2016, Tennis, Netherlands, gold, 1
+2004, Gymnastics, South Korea, bronze, 3
+2016, Gymnastics, Great Britain, silver, 1
+2004, Rowing, Cuba, silver, 3
+2016, Cycling, Czechoslovakia, bronze, 6
+2012, Synchronized Swimming, United States, silver, 2
+2016, Athletics, Romania, bronze, 6
+2016, Tennis, Sweden, gold, 5
+2016, Tennis, Romania, gold, 3
+2016, Swimming, Soviet Union, silver, 0
+2008, Modern Pentathlon, Netherlands, gold, 0
+2004, Rowing, Soviet Union, silver, 6
+2008, Gymnastics, United States, gold, 5
+2004, Football / Soccer, Italy, silver, 5
+2016, Athletics, Finland, gold, 0
+2016, Modern Pentathlon, Finland, silver, 6
+2004, Swimming, Cuba, bronze, 2
+12, Gymnastics, Italy, gold, 2
+2004, Volleyball, United States, gold, 1
+2012, Athletics, Japan, bronze, 5
+2012, Modern Pentathlon, Germany, gold, 5
+2012, Football / Soccer, Germany, g, 1
+2008, Football / Soccer, South Korea, silver, 2
+2008, Football / Soccer, Italy, bronze, 6
+2008, Synchronized Swimming, Hungary, gold, 5
+2004, Synchronized Swimming, Russia, silver, 6
+2004, Rowing, Australia, bronze, 0
+2012, Modern Pentathlon, Commonwealth of Independent States, silver, 4
+2008, Athletics, West Germany, bronze, 5
+2012, Gymnastics, Sweden, bronze, 1
+2012, Volleyball, East Germany, gold, 2
+2008, Football / Soccer, West Germany, silver, 1
+2012, Modern Pentathlon, Cuba, silver, 0
+2008, Tennis, Great Britain, bronze, 1
+2016, Volleyball, China, silver, 5
+2016, Athletics, Canada, bronze, 5
+2012, Tennis, Norway, bronze, 5
+2016, Cycling, East Germany, bronze, 0
+2016, Athletics, Sweden, bronze, 1
+2004, Volleyball, Norway, silver, 3
+2008, Football / Soccer, Poland, silver, 5
+2008, Synchronized Swimming, Cuba, gold, 0
+2008, Modern Pentathlon, Belgium, gold, 3
+2016, Gymnastics, West Germany, gold, 1
+2008, Football / Soccer, Russia, silver, 2
+2012, Gymnastics, Bulgaria, bronze, 5
+2008, Cycling, Russia, bronze, 4
+2016, Athletics, Hungary, gold, 6
+2004, Rowing, Canada, gold, 6
+2012, Cycling, France, gold, 6
+2016, Modern Pentathlon, Norway, silver, 0
+2012, Tennis, Australia, silver, 6
+2012, Gymnastics, Japan, bronze, 4
+2008, Rowing, Belgium, silver, 0
+2016, Football / Soccer, Austria, s, 1
+2012, Synchronized Swimming, Soviet Union, bronze, 5
+2016, Cycling, Romania, bronze, 0
+2012, Volleyball, Netherlands, bronze, 1
+2016, Swimming, Japan, silver, 6
+2008, Football / Soccer, China, bronze, 6
+2012, Gymnastics, Cuba, gold, 6
+2008, Modern Pentathlon, Finland, bronze, 2
+2004, Athletics, Finland, gold, 4
+2008, Gymnastics, Netherlands, gold, 4
+2012, Athletics, France, bronze, 5
+2008, Rowing, France, bronze, 2
+2008, Swimming, China, gold, 6
+2012, Football / Soccer, East Germany, silver, 3
+2012, Volleyball, Romania, bronze, 4
+2012, Tennis, Hungary, bronze, 3
+2004, Swimming, Netherlands, gold, 0
+2004, Synchronized Swimming, United States, gold, 0
+2008, Rowing, France, silver, 0
+2016, Rowing, Commonwealth of Independent States, gold, 3
+8, Swimming, Commonwealth of Independent States, gold, 4
+2004, Athletics, Denemark, bronze, 5
+2016, Tennis, Canada, silver, 5
+2012, Tennis, Great Britain, s, 5
+2012, Volleyball, Cuba, bronze, 3
+2012, Tennis, Sweden, gold, 4
+2004, Cycling, Belgium, gold, 5
+2008, Rowing, Denemark, gold, 0
+2016, Volleyball, Finland, silver, 6
+2016, Synchronized Swimming, South Korea, bronze, 5
+2012, Football / Soccer, Sweden, bronze, 2
+2016, Volleyball, Poland, bronze, 1
+2008, Swimming, Denemark, silver, 1
+2012, Synchronized Swimming, Australia, silver, 6
+2004, Volleyball, Soviet Union, bronze, 6
+2016, Gymnastics, Czechoslovakia, bronze, 4
+2008, Modern Pentathlon, Cuba, gold, 4
+2004, Gymnastics, Italy, g, 4
+2012, Gymnastics, France, silver, 1
+2012, Volleyball, West Germany, silver, 6
+2004, Swimming, Great Britain, gold, 4
+2008, Cycling, Soviet Union, gold, 5
+2004, Football / Soccer, Germany, silver, 5
+2008, Modern Pentathlon, Czechoslovakia, silver, 3
+2004, Volleyball, Romania, silver, 5
+2008, Swimming, South Korea, gold, 2
+2012, Swimming, Cuba, gold, 2
+2012, Synchronized Swimming, Australia, gold, 3
+2008, Volleyball, Sweden, silver, 4
+2004, Athletics, Switzerland, bronze, 4
+2012, Athletics, Commonwealth of Independent States, gold, 2
+2004, Cycling, China, bronze, 2
+2012, Football / Soccer, East Germany, bronze, 2
+2012, Cycling, Japan, gold, 0
+2004, Modern Pentathlon, Italy, silver, 3
+2012, Rowing, Sweden, bronze, 0
+2012, Cycling, Cuba, bronze, 1
+2016, Tennis, Turkey, silver, 1
+2016, Modern Pentathlon, South Korea, gold, 4
+12, Rowing, Italy, gold, 0
+2008, Football / Soccer, China, gold, 6
+2016, Synchronized Swimming, United States, bronze, 6
+2004, Synchronized Swimming, Commonwealth of Independent States, s, 4
+2012, Tennis, Finland, gold, 0
+2008, Modern Pentathlon, Soviet Union, silver, 0
+2004, Volleyball, Denemark, bronze, 6
+2012, Rowing, Hungary, bronze, 3
+2004, Football / Soccer, Belgium, gold, 6
+2008, Rowing, South Korea, bronze, 5
+2008, Gymnastics, Japan, silver, 4
+2012, Synchronized Swimming, West Germany, gold, 4
+2016, Gymnastics, Romania, silver, 5
+2004, Modern Pentathlon, Belgium, bronze, 2
+2008, Volleyball, Great Britain, gold, 0
+2004, Swimming, South Korea, silver, 0
+2016, Modern Pentathlon, Switzerland, gold, 0
+2004, Rowing, Russia, bronze, 1
+2004, Modern Pentathlon, Poland, gold, 3
+2016, Rowing, Norway, bronze, 4
+2008, Athletics, Australia, silver, 1
+2004, Rowing, Germany, gold, 4
+2016, Synchronized Swimming, Bulgaria, bronze, 3
+2012, Rowing, Finland, bronze, 2
+2004, Swimming, Finland, gold, 3
+2008, Swimming, United States, bronze, 2
+2012, Synchronized Swimming, West Germany, silver, 2
+2016, Modern Pentathlon, Austria, silver, 3
+2008, Tennis, France, silver, 2
+2012, Cycling, Japan, silver, 2
+2016, Synchronized Swimming, West Germany, bronze, 6
+2016, Football / Soccer, Soviet Union, silver, 6
+2008, Swimming, Belgium, silver, 4
+2008, Rowing, Germany, silver, 4
+2016, Swimming, Switzerland, gold, 6
+2008, Cycling, East Germany, bronze, 4
+2016, Volleyball, Switzerland, bronze, 2
+2004, Modern Pentathlon, Czechoslovakia, bronze, 1
+2012, Rowing, Commonwealth of Independent States, silver, 5
+2008, Athletics, Austria, gold, 5
+2012, Cycling, United States, silver, 3
+2016, Rowing, Poland, bronze, 2
+2016, Cycling, Australia, g, 3
+2016, Swimming, United States, silver, 1
+2012, Gymnastics, Romania, bronze, 1
+2004, Synchronized Swimming, Finland, bronze, 3
+2016, Modern Pentathlon, East Germany, bronze, 4
+2008, Athletics, Canada, silver, 3
+2004, Modern Pentathlon, Germany, silver, 3
+2008, Athletics, Romania, bronze, 5
+2008, Gymnastics, Norway, bronze, 5
+2008, Modern Pentathlon, Russia, silver, 1
+2004, Gymnastics, Cuba, g, 4
+2012, Tennis, Japan, silver, 3
+2016, Synchronized Swimming, Bulgaria, gold, 0
+2016, Volleyball, Turkey, gold, 6
+2004, Tennis, Cuba, bronze, 3
+2004, Swimming, Norway, bronze, 2
+2016, Athletics, Poland, bronze, 5
+2012, Athletics, Japan, silver, 4
+2004, Synchronized Swimming, France, bronze, 2
+2016, Tennis, South Korea, bronze, 2
+2012, Swimming, East Germany, bronze, 6
+2004, Gymnastics, Soviet Union, silver, 1
+2012, Cycling, Hungary, silver, 0
+2012, Gymnastics, Turkey, silver, 4
+2008, Modern Pentathlon, West Germany, gold, 3
+2016, Volleyball, Netherlands, silver, 2
+2004, Swimming, Russia, gold, 1
+2004, Synchronized Swimming, Hungary, bronze, 1
+2012, Synchronized Swimming, Czechoslovakia, bronze, 0
+2004, Gymnastics, United States, silver, 1
+2012, Swimming, United States, silver, 0
+2004, Rowing, Sweden, gold, 2
+2016, Athletics, Turkey, silver, 5
+2008, Cycling, Bulgaria, gold, 2
+2004, Tennis, Switzerland, gold, 0
+2016, Athletics, Finland, silver, 2
+2008, Volleyball, Netherlands, gold, 0
+2008, Gymnastics, Poland, gold, 2
+2012, Tennis, Finland, bronze, 3
+2004, Modern Pentathlon, Italy, gold, 2
+2016, Football / Soccer, China, silver, 0
+2012, Gymnastics, Netherlands, gold, 6
+2016, Swimming, Russia, bronze, 1
+2004, Football / Soccer, Switzerland, silver, 3
+2016, Cycling, Bulgaria, silver, 4
+2004, Modern Pentathlon, Romania, silver, 1
+2004, Tennis, Netherlands, bronze, 2
+2016, Synchronized Swimming, Russia, gold, 1
+2004, Swimming, West Germany, bronze, 1
+2004, Athletics, Finland, b, 3
+2004, Football / Soccer, Poland, gold, 3
+2016, Synchronized Swimming, Italy, s, 2
+2016, Volleyball, Cuba, bronze, 1
+2012, Football / Soccer, Finland, silver, 1
+2004, Athletics, Austria, silver, 4
+2016, Cycling, Canada, bronze, 4
+2004, Rowing, Germany, bronze, 1
+2008, Gymnastics, Switzerland, bronze, 6
+2012, Athletics, Italy, silver, 4
+2012, Gymnastics, Bulgaria, silver, 2
+2016, Gymnastics, Canada, gold, 5
+2008, Synchronized Swimming, Austria, silver, 5
+2004, Athletics, Norway, silver, 4
+2016, Synchronized Swimming, Netherlands, bronze, 6
+2012, Synchronized Swimming, East Germany, bronze, 4
+2012, Swimming, Australia, gold, 1
+2008, Swimming, South Korea, bronze, 5
+2008, Rowing, Hungary, gold, 6
+2016, Football / Soccer, Commonwealth of Independent States, bronze, 1
+2016, Volleyball, Sweden, bronze, 0
+2016, Tennis, Norway, bronze, 6
+2012, Rowing, Poland, gold, 5
+2008, Synchronized Swimming, Russia, gold, 2
+2016, Modern Pentathlon, Hungary, bronze, 2
+2008, Cycling, Belgium, bronze, 0
+2008, Gymnastics, United States, bronze, 4
+2004, Rowing, Hungary, bronze, 4
+2004, Synchronized Swimming, France, gold, 0
+2008, Gymnastics, Finland, bronze, 4
+2012, Gymnastics, Canada, silver, 6
+2008, Synchronized Swimming, Norway, gold, 0
+2016, Swimming, Austria, gold, 2
+2012, Football / Soccer, Belgium, bronze, 5
+2012, Swimming, Germany, silver, 6
+2016, Modern Pentathlon, South Korea, silver, 3
+2012, Swimming, Germany, gold, 0
+2008, Tennis, Denemark, silver, 5
+2004, Synchronized Swimming, Great Britain, gold, 4
+2012, Synchronized Swimming, Romania, bronze, 3
+2008, Swimming, Turkey, bronze, 0
+2004, Football / Soccer, Germany, bronze, 1
+2004, Cycling, Cuba, silver, 4
+2012, Athletics, China, gold, 4
+2012, Athletics, Italy, bronze, 4
+2012, Athletics, Sweden, bronze, 2
+2016, Gymnastics, Italy, gold, 3
+2012, Rowing, South Korea, silver, 0
+2008, Rowing, Germany, gold, 4
+2012, Rowing, Hungary, gold, 0
+2012, Gymnastics, Denemark, bronze, 4
+2004, Cycling, Netherlands, gold, 3
+2012, Modern Pentathlon, Canada, silver, 2
+2016, Modern Pentathlon, France, bronze, 1
+2004, Modern Pentathlon, France, bronze, 5
+2008, Volleyball, South Korea, silver, 2
+2008, Rowing, Soviet Union, gold, 4
+2012, Synchronized Swimming, Turkey, gold, 5
+2008, Gymnastics, Germany, silver, 1
+2008, Swimming, Germany, gold, 1
+2004, Tennis, Sweden, bronze, 0
+2016, Modern Pentathlon, Germany, silver, 4
+2012, Modern Pentathlon, Netherlands, bronze, 2
+2016, Gymnastics, Switzerland, gold, 1
+2012, Swimming, Great Britain, gold, 0
+2008, Modern Pentathlon, Switzerland, gold, 1
+2016, Volleyball, Hungary, gold, 6
+2004, Football / Soccer, Netherlands, silver, 2
+2008, Swimming, Poland, silver, 6
+2016, Modern Pentathlon, Poland, gold, 2
+2008, Cycling, South Korea, gold, 4
+2012, Modern Pentathlon, Turkey, silver, 1
+2008, Football / Soccer, Hungary, gold, 4
+2016, Rowing, Austria, gold, 1
+2012, Cycling, Russia, gold, 3
+2004, Rowing, United States, gold, 3
+2012, Athletics, Great Britain, bronze, 4
+2004, Modern Pentathlon, Czechoslovakia, silver, 2
+2004, Modern Pentathlon, Poland, silver, 4
+2008, Volleyball, Canada, silver, 3
+2008, Rowing, Czechoslovakia, silver, 1
+2004, Football / Soccer, Turkey, gold, 0
+2004, Synchronized Swimming, Germany, bronze, 2
+2004, Cycling, Czechoslovakia, gold, 2
+2016, Gymnastics, Great Britain, bronze, 6
+2004, Volleyball, Cuba, gold, 5
+2008, Rowing, Russia, silver, 2
+2016, Modern Pentathlon, China, silver, 3
+2004, Gymnastics, Czechoslovakia, bronze, 0
+2016, Swimming, Poland, b, 2
+2012, Cycling, Commonwealth of Independent States, bronze, 0
+2012, Rowing, China, gold, 6
+2016, Football / Soccer, Austria, gold, 6
+2008, Modern Pentathlon, Switzerland, bronze, 5
+2008, Cycling, Poland, gold, 4
+2016, Synchronized Swimming, Cuba, silver, 4
+2012, Rowing, Italy, silver, 6
+2008, Synchronized Swimming, Switzerland, silver, 6
+2008, Volleyball, Switzerland, silver, 0
+2008, Swimming, Netherlands, gold, 1
+2016, Football / Soccer, Finland, g, 6
+2016, Athletics, Germany, bronze, 2
+2016, Volleyball, China, gold, 1
+2016, Gymnastics, Switzerland, bronze, 0
+2004, Tennis, West Germany, silver, 0
+2004, Modern Pentathlon, Bulgaria, gold, 3
+2004, Athletics, South Korea, bronze, 6
+2016, Rowing, Soviet Union, bronze, 0
+2016, Volleyball, Japan, bronze, 4
+2012, Tennis, Bulgaria, gold, 3
+2012, Modern Pentathlon, South Korea, silver, 5
+2012, Football / Soccer, Finland, gold, 1
+2008, Gymnastics, Romania, bronze, 1
+2012, Tennis, Italy, bronze, 1
+2004, Gymnastics, Switzerland, bronze, 2
+2012, Football / Soccer, Italy, bronze, 2
+2004, Gymnastics, Japan, silver, 1
+2012, Football / Soccer, Germany, bronze, 5
+2016, Modern Pentathlon, Poland, bronze, 3
+2008, Athletics, China, silver, 4
+2016, Synchronized Swimming, United States, gold, 0
+2004, Volleyball, Poland, silver, 0
+2012, Swimming, Hungary, silver, 3
+2004, Rowing, Turkey, bronze, 0
+2016, Swimming, Canada, bronze, 4
+2012, Cycling, Switzerland, gold, 5
+2016, Cycling, Hungary, gold, 6
+2008, Cycling, Romania, silver, 0
+12, Modern Pentathlon, Hungary, bronze, 5
+2012, Swimming, Australia, silver, 3
+2016, Synchronized Swimming, Great Britain, gold, 0
+2016, Modern Pentathlon, Commonwealth of Independent States, silver, 2
+2004, Modern Pentathlon, Germany, bronze, 3
+2016, Rowing, Romania, silver, 5
+2008, Athletics, United States, silver, 1
+2008, Football / Soccer, Bulgaria, bronze, 5
+2004, Gymnastics, Bulgaria, silver, 0
+2016, Synchronized Swimming, Commonwealth of Independent States, gold, 2
+2008, Tennis, West Germany, silver, 1
+2004, Volleyball, Poland, gold, 6
+2008, Swimming, Hungary, bronze, 0
+2008, Football / Soccer, Australia, gold, 3
+2004, Football / Soccer, Sweden, gold, 1
+2008, Cycling, Soviet Union, silver, 2
+2008, Cycling, Czechoslovakia, bronze, 3
+2012, Cycling, Czechoslovakia, gold, 0
+2016, Athletics, East Germany, silver, 5
+2012, Modern Pentathlon, Netherlands, silver, 4
+16, Football / Soccer, Cuba, gold, 2
+2016, Athletics, Belgium, bronze, 1
+12, Cycling, Italy, gold, 1
+2004, Tennis, Bulgaria, gold, 6
+2016, Modern Pentathlon, Soviet Union, b, 3
+2004, Gymnastics, Czechoslovakia, silver, 2
+2016, Volleyball, Denemark, silver, 3
+2012, Swimming, Norway, silver, 0
+2012, Synchronized Swimming, Turkey, bronze, 4
+2016, Swimming, Czechoslovakia, gold, 0
+2016, Gymnastics, Canada, silver, 0
+2008, Cycling, Commonwealth of Independent States, silver, 5
+2016, Football / Soccer, Turkey, silver, 5
+2004, Synchronized Swimming, Norway, bronze, 3
+2016, Volleyball, Switzerland, gold, 0
+2004, Athletics, Russia, gold, 0
+2016, Synchronized Swimming, Commonwealth of Independent States, bronze, 6
+2012, Volleyball, East Germany, silver, 2
+2008, Cycling, Hungary, b, 6
+2004, Synchronized Swimming, Norway, silver, 6
+2008, Cycling, Netherlands, bronze, 6
+2008, Athletics, Switzerland, bronze, 2
+2008, Cycling, Netherlands, gold, 0
+2008, Gymnastics, East Germany, silver, 1
+2008, Synchronized Swimming, United States, silver, 4
+2016, Modern Pentathlon, Canada, s, 3
+2008, Synchronized Swimming, South Korea, bronze, 6
+2008, Volleyball, Denemark, gold, 2
+2008, Athletics, Italy, gold, 6
+2008, Tennis, France, bronze, 4
+2016, Synchronized Swimming, Norway, silver, 5
+2016, Swimming, Russia, g, 0
+2008, Synchronized Swimming, Italy, bronze, 0
+2008, Modern Pentathlon, Poland, gold, 3
+2008, Swimming, Commonwealth of Independent States, bronze, 1
+2016, Cycling, Poland, silver, 5
+2016, Gymnastics, Turkey, bronze, 3
+2008, Football / Soccer, Cuba, gold, 0
+2012, Gymnastics, Soviet Union, silver, 2
+2004, Rowing, Romania, silver, 6
+2004, Modern Pentathlon, Switzerland, bronze, 5
+2012, Football / Soccer, Turkey, gold, 6
+2012, Synchronized Swimming, Great Britain, s, 4
+2016, Rowing, Netherlands, gold, 3
+2004, Tennis, Italy, silver, 2
+2008, Athletics, Soviet Union, silver, 3
+2012, Rowing, Denemark, bronze, 6
+2008, Rowing, United States, gold, 2
+2016, Swimming, Hungary, silver, 1
+2012, Football / Soccer, Sweden, gold, 0
+2012, Swimming, Poland, bronze, 0
+2008, Rowing, Czechoslovakia, gold, 5
+2012, Rowing, Japan, silver, 3
+2016, Cycling, Soviet Union, gold, 0
+2016, Modern Pentathlon, United States, bronze, 3
+2016, Football / Soccer, Sweden, silver, 2
+2004, Gymnastics, France, bronze, 6
+2012, Athletics, Australia, gold, 3
+2016, Volleyball, Bulgaria, gold, 6
+2016, Swimming, Czechoslovakia, bronze, 6
+2008, Modern Pentathlon, Czechoslovakia, gold, 2
+2004, Athletics, Hungary, gold, 1
+2008, Cycling, France, silver, 1
+16, Tennis, East Germany, gold, 4
+2008, Football / Soccer, Denemark, silver, 2
+2016, Swimming, Commonwealth of Independent States, bronze, 0
+2008, Volleyball, France, gold, 5
+2016, Volleyball, Commonwealth of Independent States, silver, 0
+2008, Cycling, Romania, bronze, 5
+2012, Tennis, Canada, silver, 5
+2008, Cycling, Commonwealth of Independent States, bronze, 6
+2004, Athletics, Canada, bronze, 5
+2012, Tennis, Denemark, gold, 3
+2008, Rowing, Norway, bronze, 0
+2008, Gymnastics, Turkey, gold, 6
+2012, Volleyball, Sweden, gold, 1
+2008, Gymnastics, Bulgaria, gold, 6
+2008, Gymnastics, China, bronze, 4
+2012, Swimming, Finland, bronze, 2
+2016, Volleyball, Romania, gold, 4
+2012, Athletics, Denemark, bronze, 5
+2012, Cycling, Soviet Union, gold, 2
+2012, Swimming, United States, bronze, 2
+2004, Tennis, Russia, gold, 1
+2008, Football / Soccer, Canada, bronze, 6
+2004, Tennis, South Korea, bronze, 3
+2016, Swimming, Belgium, bronze, 6
+2004, Tennis, Commonwealth of Independent States, bronze, 3
+2012, Swimming, Soviet Union, silver, 2
+2016, Rowing, Russia, gold, 5
+2016, Rowing, Australia, gold, 2
+2004, Rowing, Sweden, bronze, 0
+2008, Gymnastics, South Korea, bronze, 3
+2008, Synchronized Swimming, Finland, bronze, 6
+2004, Cycling, Turkey, gold, 1
+2016, Swimming, Sweden, gold, 1
+2016, Athletics, South Korea, gold, 3
+2008, Modern Pentathlon, Belgium, bronze, 5
+2008, Swimming, Romania, gold, 5
+2016, Volleyball, East Germany, silver, 6
+2012, Swimming, Italy, gold, 3
+2004, Cycling, China, silver, 0
+2004, Football / Soccer, East Germany, gold, 5
+2016, Cycling, Cuba, gold, 0
+2004, Rowing, East Germany, silver, 1
+2008, Athletics, Poland, silver, 3
+2016, Synchronized Swimming, East Germany, bronze, 2
+2012, Football / Soccer, France, b, 0
+2008, Swimming, Soviet Union, gold, 4
+2008, Rowing, Romania, bronze, 0
+2012, Cycling, Sweden, bronze, 1
+2008, Volleyball, Turkey, silver, 6
+2008, Athletics, Sweden, silver, 2
+2008, Volleyball, Turkey, gold, 2
+2012, Volleyball, Canada, bronze, 3
+8, Athletics, Norway, bronze, 4
+16, Football / Soccer, Sweden, gold, 5
+2016, Volleyball, West Germany, gold, 4
+2012, Athletics, Australia, bronze, 3
+2004, Volleyball, Soviet Union, silver, 6
+4, Synchronized Swimming, Bulgaria, gold, 2
+2008, Cycling, China, bronze, 1
+2004, Swimming, Bulgaria, silver, 0
+2012, Athletics, United States, silver, 3
+2012, Swimming, Great Britain, silver, 5
+2008, Athletics, Germany, bronze, 3
+2016, Cycling, West Germany, silver, 1
+2008, Synchronized Swimming, Sweden, silver, 1
+2012, Tennis, Poland, bronze, 6
+2004, Volleyball, Commonwealth of Independent States, bronze, 0
+2004, Gymnastics, Soviet Union, bronze, 4
+2004, Athletics, Netherlands, bronze, 1
+2004, Swimming, Soviet Union, bronze, 1
+2012, Modern Pentathlon, Sweden, gold, 2
+2004, Gymnastics, Germany, bronze, 2
+2012, Gymnastics, Commonwealth of Independent States, silver, 5
+2008, Swimming, France, bronze, 3
+8, Tennis, Soviet Union, gold, 2
+2008, Swimming, Hungary, gold, 2
+2004, Athletics, Australia, silver, 4
+2012, Rowing, Russia, gold, 6
+2004, Cycling, Germany, bronze, 0
+2004, Volleyball, Italy, gold, 5
+2016, Gymnastics, Finland, silver, 1
+2004, Rowing, France, bronze, 0
+2008, Gymnastics, Norway, silver, 1
+2012, Synchronized Swimming, Romania, silver, 1
+2008, Rowing, Finland, silver, 0
+2016, Football / Soccer, Italy, gold, 2
+2016, Rowing, Cuba, silver, 0
+2016, Football / Soccer, Hungary, silver, 4
+2008, Football / Soccer, Belgium, silver, 4
+2016, Athletics, Bulgaria, b, 0
+2016, Tennis, Norway, silver, 3
+2012, Volleyball, Russia, bronze, 0
+2012, Gymnastics, West Germany, bronze, 0
+2004, Tennis, United States, silver, 6
+2012, Athletics, Czechoslovakia, silver, 3
+2016, Athletics, Switzerland, gold, 4
+2012, Modern Pentathlon, Russia, gold, 2
+2012, Tennis, Germany, gold, 2
+2004, Swimming, Denemark, bronze, 2
+2016, Modern Pentathlon, China, gold, 1
+2016, Rowing, East Germany, silver, 5
+2008, Cycling, Austria, bronze, 6
+2008, Tennis, Australia, bronze, 0
+2008, Modern Pentathlon, Turkey, silver, 5
+2008, Gymnastics, Japan, bronze, 1
+2004, Volleyball, Austria, gold, 4
+2012, Swimming, Russia, silver, 0
+2004, Rowing, Belgium, bronze, 5
+2008, Rowing, Poland, bronze, 4
+2008, Volleyball, Czechoslovakia, silver, 6
+2008, Rowing, Bulgaria, silver, 2
+2008, Athletics, Australia, gold, 3
+2004, Modern Pentathlon, Belgium, gold, 4
+2004, Athletics, Sweden, silver, 4
+2016, Rowing, Bulgaria, gold, 1
+2016, Athletics, Poland, silver, 2
+2004, Volleyball, Great Britain, silver, 5
+2012, Swimming, Turkey, gold, 4
+2012, Rowing, Finland, silver, 0
+2012, Synchronized Swimming, Hungary, bronze, 1
+2008, Tennis, Sweden, gold, 0
+2008, Swimming, France, gold, 6
+4, Gymnastics, Czechoslovakia, gold, 5
+2008, Tennis, United States, gold, 6
+2016, Swimming, South Korea, gold, 4
+2012, Gymnastics, West Germany, silver, 2
+2008, Synchronized Swimming, Switzerland, gold, 6
+2016, Athletics, Soviet Union, bronze, 3
+2008, Cycling, Cuba, bronze, 5
+2012, Rowing, Norway, bronze, 2
+2012, Football / Soccer, Australia, gold, 6
+8, Rowing, China, gold, 5
+2016, Swimming, Commonwealth of Independent States, silver, 6
+2012, Volleyball, China, silver, 4
+2016, Football / Soccer, Turkey, bronze, 4
+2016, Synchronized Swimming, Finland, silver, 2
+2004, Tennis, France, silver, 6
+2012, Volleyball, Belgium, silver, 1
+2004, Swimming, Germany, silver, 4
+2008, Synchronized Swimming, Bulgaria, bronze, 1
+2004, Volleyball, Australia, gold, 3
+2012, Cycling, Bulgaria, bronze, 5
+2016, Volleyball, United States, gold, 3
+2008, Modern Pentathlon, Cuba, bronze, 4
+2004, Swimming, Netherlands, silver, 5
+2016, Synchronized Swimming, Poland, gold, 5
+2004, Cycling, Sweden, silver, 4
+2004, Synchronized Swimming, Norway, gold, 1
+2008, Gymnastics, Sweden, bronze, 1
+2004, Synchronized Swimming, Great Britain, silver, 4
+2016, Rowing, Japan, g, 1
+2004, Synchronized Swimming, Turkey, gold, 0
+2016, Volleyball, Soviet Union, bronze, 0
+2008, Tennis, Canada, bronze, 6
+2016, Modern Pentathlon, United States, silver, 1
+2004, Cycling, South Korea, silver, 5
+2004, Rowing, Austria, silver, 5
+2008, Football / Soccer, Commonwealth of Independent States, gold, 0
+2016, Tennis, Czechoslovakia, silver, 0
+2004, Gymnastics, Poland, silver, 1
+2008, Athletics, United States, gold, 5
+2004, Synchronized Swimming, Sweden, gold, 3
+2012, Cycling, Norway, bronze, 6
+2016, Modern Pentathlon, Turkey, gold, 5
+2012, Rowing, Turkey, silver, 5
+2012, Modern Pentathlon, Sweden, bronze, 4
+2008, Cycling, South Korea, silver, 2
+2004, Cycling, Canada, bronze, 0
+2016, Volleyball, Hungary, silver, 6
+2004, Cycling, Japan, silver, 3
+2004, Football / Soccer, Romania, bronze, 1
+2008, Athletics, Netherlands, silver, 1
+2016, Modern Pentathlon, Bulgaria, bronze, 0
+2008, Swimming, Germany, bronze, 4
+2012, Swimming, China, gold, 4
+2004, Rowing, Czechoslovakia, b, 1
+2008, Modern Pentathlon, East Germany, bronze, 0
+2016, Tennis, Norway, gold, 4
+2008, Cycling, East Germany, silver, 6
+2012, Volleyball, Great Britain, s, 1
+2008, Modern Pentathlon, Turkey, gold, 3
+2012, Gymnastics, Great Britain, silver, 3
+2016, Swimming, Netherlands, silver, 5
+2016, Cycling, East Germany, gold, 5
+2012, Tennis, China, bronze, 3
+2012, Cycling, East Germany, silver, 0
+2012, Volleyball, Japan, gold, 1
+2004, Volleyball, Italy, silver, 6
+2012, Athletics, China, bronze, 0
+2012, Tennis, France, silver, 3
+2008, Tennis, Norway, silver, 2
+2012, Synchronized Swimming, Austria, gold, 5
+16, Modern Pentathlon, Italy, bronze, 2
+2012, Volleyball, Soviet Union, bronze, 4
+2008, Cycling, West Germany, bronze, 3
+2012, Modern Pentathlon, Norway, bronze, 0
+2008, Modern Pentathlon, Denemark, bronze, 1
+2008, Volleyball, South Korea, bronze, 5
+2004, Gymnastics, Belgium, silver, 5
+2012, Modern Pentathlon, France, gold, 2
+2008, Rowing, Hungary, bronze, 6
+2016, Volleyball, Austria, bronze, 3
+2004, Athletics, Australia, bronze, 1
+2016, Athletics, Austria, bronze, 6
+2012, Football / Soccer, Austria, bronze, 0
+2016, Modern Pentathlon, Italy, gold, 4
+2004, Tennis, Soviet Union, gold, 0
+2004, Gymnastics, Commonwealth of Independent States, silver, 3
+2004, Rowing, Sweden, silver, 6
+2008, Rowing, Switzerland, bronze, 2
+2004, Volleyball, Japan, silver, 2
+2004, Gymnastics, Switzerland, silver, 1
+2008, Volleyball, Switzerland, bronze, 6
+2008, Swimming, Turkey, gold, 1
+2016, Gymnastics, Poland, bronze, 3
+2004, Athletics, France, bronze, 3
+2008, Athletics, Commonwealth of Independent States, bronze, 4
+2012, Athletics, Russia, bronze, 6
+2008, Athletics, Italy, silver, 5
+16, Athletics, Hungary, silver, 5
+2012, Gymnastics, United States, bronze, 1
+2004, Synchronized Swimming, Romania, g, 6
+2016, Football / Soccer, Romania, silver, 5
+2004, Cycling, France, bronze, 4
+2012, Tennis, Netherlands, gold, 2
+2008, Cycling, East Germany, gold, 5
+2008, Rowing, Hungary, silver, 3
+2004, Cycling, Belgium, bronze, 4
+2004, Football / Soccer, Soviet Union, bronze, 0
+2008, Gymnastics, Czechoslovakia, bronze, 5
+2016, Athletics, Netherlands, bronze, 6
+2008, Synchronized Swimming, Romania, gold, 0
+2012, Gymnastics, Russia, silver, 1
+2004, Modern Pentathlon, Turkey, gold, 2
+2016, Athletics, South Korea, silver, 1
+2016, Modern Pentathlon, Cuba, silver, 2
+2004, Swimming, Austria, gold, 6
+2012, Cycling, Great Britain, gold, 1
+2016, Synchronized Swimming, Bulgaria, silver, 2
+2008, Modern Pentathlon, Japan, silver, 2
+2008, Rowing, Italy, bronze, 0
+2004, Gymnastics, Turkey, silver, 6
+2004, Volleyball, China, gold, 2
+2008, Football / Soccer, Commonwealth of Independent States, silver, 2
+2016, Synchronized Swimming, Canada, gold, 3
+2016, Tennis, United States, bronze, 5
+2012, Gymnastics, Germany, silver, 2
+2008, Volleyball, Australia, silver, 4
+2012, Volleyball, Great Britain, bronze, 4
+2008, Athletics, Hungary, silver, 0
+2004, Athletics, Turkey, bronze, 3
+2008, Swimming, China, silver, 5
+2004, Football / Soccer, Finland, silver, 2
+2012, Synchronized Swimming, East Germany, silver, 5
+2004, Volleyball, Bulgaria, bronze, 2
+2004, Tennis, United States, gold, 4
+2016, Rowing, Commonwealth of Independent States, silver, 2
+2012, Football / Soccer, Bulgaria, bronze, 1
+2016, Swimming, Australia, gold, 3
+2016, Swimming, Soviet Union, gold, 5
+2004, Cycling, West Germany, bronze, 1
+2012, Football / Soccer, Denemark, gold, 4
+2016, Rowing, United States, gold, 0
+2012, Gymnastics, Great Britain, bronze, 4
+2016, Synchronized Swimming, United States, silver, 6
+2016, Tennis, Sweden, silver, 4
+2012, Gymnastics, Romania, silver, 6
+2012, Athletics, Finland, gold, 3
+2012, Modern Pentathlon, Belgium, silver, 6
+2004, Athletics, Switzerland, silver, 0
+2012, Cycling, Hungary, bronze, 5
+2012, Synchronized Swimming, Switzerland, silver, 0
+2012, Cycling, Sweden, silver, 0
+2012, Modern Pentathlon, Russia, bronze, 0
+2004, Volleyball, Denemark, silver, 5
+2016, Cycling, South Korea, gold, 2
+2008, Cycling, Germany, silver, 1
+2004, Gymnastics, Norway, gold, 0
+2016, Swimming, Canada, silver, 2
+2012, Cycling, Italy, bronze, 1
+2008, Swimming, France, silver, 1
+2008, Modern Pentathlon, Norway, silver, 4
+2004, Athletics, West Germany, bronze, 2
+2012, Synchronized Swimming, Russia, silver, 4
+2012, Volleyball, Italy, silver, 1
+2012, Synchronized Swimming, Soviet Union, gold, 2
+2008, Volleyball, Soviet Union, gold, 2
+2004, Volleyball, France, bronze, 2
+2004, Volleyball, Norway, gold, 1
+2004, Cycling, Turkey, silver, 2
+2008, Swimming, Finland, gold, 5
+2012, Volleyball, Germany, bronze, 4
+2004, Athletics, Switzerland, gold, 6
+2012, Athletics, Denemark, gold, 1
+2008, Gymnastics, Great Britain, bronze, 5
+2004, Synchronized Swimming, Japan, silver, 0
+2004, Synchronized Swimming, South Korea, gold, 1
+2016, Tennis, Hungary, b, 3
+2008, Swimming, West Germany, gold, 5
+2008, Rowing, East Germany, gold, 3
+2016, Tennis, Austria, bronze, 1
+2016, Cycling, China, gold, 6
+2012, Swimming, United States, gold, 2
+2008, Rowing, Turkey, bronze, 1
+2004, Modern Pentathlon, Sweden, bronze, 4
+2004, Cycling, Soviet Union, silver, 0
+2016, Gymnastics, Canada, bronze, 4
+2016, Synchronized Swimming, Soviet Union, bronze, 4
+2016, Cycling, Commonwealth of Independent States, gold, 6
+2016, Synchronized Swimming, South Korea, gold, 6
+2016, Modern Pentathlon, Netherlands, silver, 1
+2016, Volleyball, France, bronze, 4
+2012, Modern Pentathlon, East Germany, silver, 1
+2016, Modern Pentathlon, United States, gold, 3
+2008, Rowing, East Germany, bronze, 5
+2016, Synchronized Swimming, Austria, b, 5
+2016, Rowing, Italy, bronze, 5
+2012, Athletics, Norway, silver, 2
+2012, Football / Soccer, Italy, gold, 2
+2004, Volleyball, Russia, bronze, 0
+2016, Rowing, Russia, silver, 1
+2012, Gymnastics, Belgium, b, 4
+2008, Football / Soccer, Japan, bronze, 4
+2012, Modern Pentathlon, Czechoslovakia, silver, 6
+2016, Volleyball, Italy, bronze, 6
+2012, Synchronized Swimming, Finland, silver, 6
+4, Modern Pentathlon, Norway, silver, 4
+2004, Synchronized Swimming, Czechoslovakia, gold, 4
+2004, Synchronized Swimming, Switzerland, bronze, 3
+2016, Football / Soccer, Italy, silver, 2
+4, Volleyball, Netherlands, bronze, 2
+2004, Gymnastics, Japan, bronze, 5
+2004, Football / Soccer, United States, gold, 2
+2004, Synchronized Swimming, Turkey, bronze, 6
+2008, Cycling, Great Britain, silver, 6
+2004, Athletics, France, silver, 6
+2008, Athletics, Finland, gold, 6
+2016, Athletics, Italy, bronze, 1
+2004, Football / Soccer, Commonwealth of Independent States, gold, 1
+2012, Athletics, Turkey, bronze, 3
+2012, Rowing, Romania, gold, 6
+2008, Rowing, West Germany, silver, 4
+2008, Athletics, Hungary, bronze, 1
+2016, Football / Soccer, Germany, silver, 3
+2004, Rowing, Hungary, silver, 1
+2004, Modern Pentathlon, Turkey, silver, 2
+2008, Athletics, Poland, bronze, 5
+2012, Rowing, South Korea, gold, 4
+2016, Swimming, Finland, bronze, 1
+2012, Volleyball, Poland, bronze, 2
+2008, Athletics, China, bronze, 5
+2016, Cycling, Sweden, silver, 3
+2016, Athletics, Switzerland, silver, 2
+2004, Modern Pentathlon, Commonwealth of Independent States, gold, 0
+2004, Athletics, Japan, gold, 0
+2004, Football / Soccer, East Germany, silver, 5
+2008, Cycling, Japan, gold, 2
+2004, Synchronized Swimming, Finland, gold, 2
+2004, Synchronized Swimming, France, silver, 1
+2012, Cycling, Poland, bronze, 2
+2008, Synchronized Swimming, Netherlands, silver, 0
+2004, Rowing, Poland, silver, 1
+2012, Rowing, Bulgaria, bronze, 5
+2004, Synchronized Swimming, Bulgaria, silver, 5
+2008, Tennis, Poland, silver, 4
+2012, Gymnastics, Italy, silver, 0
+2012, Volleyball, China, bronze, 5
+2016, Swimming, Bulgaria, gold, 3
+12, Tennis, Cuba, gold, 1
+2004, Gymnastics, United States, gold, 6
+2004, Tennis, Poland, gold, 0
+2008, Rowing, Commonwealth of Independent States, bronze, 6
+2008, Modern Pentathlon, Australia, bronze, 4
+2004, Cycling, China, gold, 2
+2008, Rowing, Great Britain, silver, 2
+2012, Volleyball, Netherlands, gold, 3
+2016, Swimming, West Germany, gold, 2
+2008, Cycling, Japan, silver, 3
+2012, Cycling, Finland, silver, 3
+2012, Football / Soccer, Norway, gold, 5
+2004, Gymnastics, Italy, silver, 0
+2012, Football / Soccer, Hungary, bronze, 2
+2008, Cycling, Sweden, silver, 2
+2016, Volleyball, East Germany, gold, 3
+2012, Athletics, Belgium, silver, 6
+2004, Swimming, Poland, gold, 0
+2008, Athletics, Czechoslovakia, silver, 5
+2016, Football / Soccer, United States, silver, 4
+2012, Tennis, United States, bronze, 4
+2012, Swimming, Czechoslovakia, silver, 4
+2012, Volleyball, Switzerland, gold, 6
+2012, Swimming, Switzerland, silver, 4
+2008, Swimming, China, bronze, 2
+2008, Cycling, Great Britain, gold, 6
+2004, Gymnastics, Romania, silver, 6
+2004, Gymnastics, Canada, gold, 1
+2012, Tennis, Germany, silver, 4
+2016, Modern Pentathlon, Germany, gold, 4
+2016, Volleyball, United States, bronze, 6
+2004, Swimming, Russia, bronze, 5
+2016, Rowing, France, bronze, 2
+2004, Modern Pentathlon, Russia, silver, 2
+2016, Volleyball, Norway, silver, 5
+2004, Rowing, Czechoslovakia, silver, 4
+2012, Rowing, Japan, bronze, 6
+2016, Football / Soccer, Canada, gold, 5
+2004, Synchronized Swimming, Canada, bronze, 0
+2016, Tennis, Italy, silver, 6
+2016, Synchronized Swimming, Czechoslovakia, silver, 1
+2012, Rowing, Czechoslovakia, gold, 2
+2016, Athletics, Australia, silver, 1
+2016, Swimming, Norway, g, 4
+2012, Rowing, Australia, bronze, 5
+2008, Rowing, Russia, gold, 6
+2008, Athletics, Soviet Union, gold, 6
+4, Gymnastics, East Germany, silver, 2
+2008, Gymnastics, East Germany, gold, 1
+2012, Swimming, Sweden, gold, 4
+2008, Synchronized Swimming, Czechoslovakia, silver, 3
+2008, Football / Soccer, United States, gold, 2
+2004, Volleyball, China, silver, 5
+2008, Football / Soccer, Austria, bronze, 5
+2008, Synchronized Swimming, China, silver, 3
+2008, Athletics, Cuba, gold, 4
+2008, Modern Pentathlon, Germany, gold, 3
+2012, Volleyball, Commonwealth of Independent States, bronze, 3
+2004, Volleyball, Finland, gold, 2
+2012, Tennis, Poland, silver, 3
+2012, Swimming, Netherlands, silver, 2
+2004, Volleyball, South Korea, bronze, 1
+2004, Rowing, Russia, s, 0
+2008, Tennis, Denemark, bronze, 3
+2016, Synchronized Swimming, Canada, bronze, 5
+2012, Modern Pentathlon, China, silver, 2
+2008, Synchronized Swimming, Austria, gold, 5
+2008, Synchronized Swimming, China, bronze, 0
+2012, Tennis, Italy, silver, 4
+2012, Cycling, China, silver, 4
+2004, Football / Soccer, Romania, silver, 1
+2012, Football / Soccer, Cuba, gold, 0
+2008, Athletics, Turkey, bronze, 5
+2008, Volleyball, Turkey, bronze, 6
+2008, Modern Pentathlon, Norway, bronze, 0
+2016, Modern Pentathlon, China, bronze, 0
+2004, Swimming, Hungary, silver, 2
+2008, Rowing, Netherlands, bronze, 1
+2012, Athletics, West Germany, silver, 5
+2012, Tennis, Russia, g, 5
+2008, Cycling, Austria, gold, 1
+2008, Synchronized Swimming, Russia, silver, 3
+2004, Football / Soccer, Great Britain, gold, 5
+2016, Rowing, West Germany, silver, 0
+2012, Athletics, Belgium, gold, 2
+2004, Synchronized Swimming, Finland, silver, 6
+2016, Tennis, Russia, bronze, 5
+2016, Swimming, West Germany, silver, 0
+2012, Modern Pentathlon, Australia, bronze, 4
+2012, Modern Pentathlon, Finland, bronze, 5
+2016, Football / Soccer, Japan, bronze, 3
+2012, Synchronized Swimming, Italy, bronze, 3
+2004, Swimming, Cuba, silver, 5
+2012, Football / Soccer, Denemark, bronze, 4
+2008, Volleyball, Canada, gold, 2
+2016, Tennis, Austria, silver, 6
+2008, Volleyball, East Germany, silver, 3
+2008, Athletics, Czechoslovakia, bronze, 0
+2016, Tennis, Italy, gold, 5
+2016, Football / Soccer, Russia, gold, 3
+2016, Swimming, Cuba, silver, 5
+2012, Volleyball, Soviet Union, gold, 4
+2004, Tennis, Australia, gold, 5
+2016, Rowing, Denemark, silver, 6
+2016, Cycling, China, silver, 0
+2004, Modern Pentathlon, China, bronze, 1
+2016, Gymnastics, Switzerland, silver, 5
+2004, Athletics, Denemark, silver, 2
+2008, Rowing, Commonwealth of Independent States, gold, 5
+2016, Swimming, Belgium, silver, 0
+2004, Athletics, China, gold, 1
+2012, Cycling, China, bronze, 2
+2008, Gymnastics, Turkey, silver, 6
+2008, Athletics, Russia, gold, 4
+2016, Gymnastics, East Germany, bronze, 5
+2012, Tennis, Switzerland, silver, 2
+2016, Synchronized Swimming, Sweden, silver, 1
+2012, Athletics, Great Britain, silver, 0
+2012, Swimming, Denemark, silver, 1
+2016, Volleyball, France, gold, 6
+2012, Cycling, Norway, gold, 3
+2008, Cycling, Australia, gold, 4
+2004, Volleyball, Poland, bronze, 2
+2008, Synchronized Swimming, Netherlands, gold, 3
+2008, Swimming, Russia, bronze, 6
+2004, Synchronized Swimming, Turkey, silver, 3
+2012, Swimming, Great Britain, bronze, 4
+2016, Athletics, Poland, gold, 5
+2008, Gymnastics, France, silver, 2
+2016, Synchronized Swimming, Turkey, silver, 3
+2016, Football / Soccer, Switzerland, gold, 6
+2012, Modern Pentathlon, Romania, bronze, 3
+2004, Cycling, Australia, b, 5
+2004, Athletics, Commonwealth of Independent States, silver, 0
+2004, Synchronized Swimming, Soviet Union, silver, 1
+2008, Football / Soccer, Italy, silver, 2
+2012, Modern Pentathlon, France, silver, 0
+2008, Synchronized Swimming, France, gold, 2
+2008, Cycling, Czechoslovakia, gold, 5
+2008, Cycling, United States, gold, 3
+2012, Cycling, United States, gold, 0
+2016, Modern Pentathlon, Germany, bronze, 5
+2012, Modern Pentathlon, Romania, gold, 6
+2008, Football / Soccer, Denemark, bronze, 0
+2012, Modern Pentathlon, Czechoslovakia, bronze, 1
+2008, Synchronized Swimming, West Germany, gold, 3
+2008, Athletics, South Korea, bronze, 4
+2004, Synchronized Swimming, Austria, bronze, 1
+2012, Volleyball, West Germany, gold, 3
+2004, Athletics, Great Britain, bronze, 1
+2004, Rowing, Great Britain, gold, 0
+2004, Tennis, Belgium, gold, 1
+2004, Football / Soccer, Finland, gold, 5
+2008, Football / Soccer, Italy, gold, 5
+2012, Swimming, Bulgaria, gold, 1
+2008, Tennis, Romania, bronze, 2
+2012, Gymnastics, Finland, bronze, 0
+2004, Cycling, Czechoslovakia, silver, 5
+2008, Athletics, Great Britain, bronze, 0
+2012, Modern Pentathlon, Italy, bronze, 5
+2016, Volleyball, Austria, gold, 3
+2012, Rowing, Germany, silver, 5
+2008, Athletics, Denemark, bronze, 6
+2004, Athletics, Poland, gold, 4
+2008, Swimming, United States, silver, 5
+2012, Athletics, Cuba, bronze, 6
+2012, Football / Soccer, Netherlands, bronze, 6
+2004, Cycling, Soviet Union, gold, 3
+2008, Gymnastics, Denemark, gold, 5
+2004, Cycling, East Germany, gold, 1
+2016, Tennis, Canada, gold, 3
+2016, Cycling, Romania, gold, 2
+2016, Volleyball, West Germany, silver, 0
+2016, Football / Soccer, Austria, bronze, 3
+2016, Athletics, United States, silver, 2
+2012, Cycling, East Germany, gold, 5
+2008, Volleyball, Commonwealth of Independent States, bronze, 2
+2012, Modern Pentathlon, Belgium, b, 5
+2016, Cycling, Cuba, bronze, 1
+2008, Rowing, Sweden, gold, 5
+2016, Rowing, Norway, gold, 4
+2004, Rowing, Finland, gold, 1
+2016, Cycling, Germany, bronze, 2
+2016, Modern Pentathlon, Switzerland, silver, 4
+2012, Synchronized Swimming, Denemark, bronze, 2
+2004, Volleyball, Sweden, bronze, 6
+2008, Gymnastics, Czechoslovakia, g, 6
+2012, Modern Pentathlon, Germany, silver, 2
+2016, Rowing, East Germany, gold, 0
+2004, Rowing, Hungary, gold, 2
+2012, Volleyball, Bulgaria, silver, 6
+2016, Modern Pentathlon, Denemark, silver, 0
+2008, Football / Soccer, Turkey, silver, 0
+2016, Gymnastics, East Germany, silver, 2
+2016, Gymnastics, Czechoslovakia, silver, 5
+2016, Tennis, Italy, bronze, 1
+2008, Rowing, Soviet Union, bronze, 1
+2012, Gymnastics, Switzerland, g, 4
+2004, Cycling, Norway, gold, 6
+2012, Football / Soccer, China, silver, 4
+2004, Volleyball, Turkey, gold, 2
+2012, Football / Soccer, Hungary, silver, 5
+2008, Tennis, United States, silver, 2
+2012, Gymnastics, Great Britain, gold, 4
+2008, Football / Soccer, Romania, bronze, 2
+2016, Volleyball, South Korea, silver, 1
+2012, Tennis, United States, silver, 0
+2016, Football / Soccer, Czechoslovakia, gold, 3
+8, Athletics, Belgium, gold, 4
+2008, Volleyball, United States, bronze, 5
+2008, Swimming, Canada, gold, 2
+2016, Tennis, Commonwealth of Independent States, bronze, 4
+2012, Cycling, West Germany, silver, 0
+2012, Swimming, Belgium, silver, 3
+2008, Rowing, Denemark, silver, 1
+2004, Rowing, Denemark, silver, 5
+2008, Athletics, Japan, bronze, 6
+2004, Cycling, France, g, 5
+2016, Tennis, Russia, silver, 0
+2012, Rowing, East Germany, gold, 6
+2012, Modern Pentathlon, United States, gold, 4
+2008, Football / Soccer, Russia, gold, 3
+2004, Football / Soccer, France, bronze, 6
+2004, Volleyball, Switzerland, silver, 3
+2004, Football / Soccer, Russia, bronze, 3
+2004, Tennis, Japan, gold, 2
+2012, Cycling, Austria, gold, 1
+2012, Athletics, Switzerland, g, 4
+2008, Football / Soccer, Canada, gold, 0
+2004, Gymnastics, West Germany, gold, 4
+2004, Modern Pentathlon, France, silver, 2
+2012, Modern Pentathlon, Japan, bronze, 5
+2004, Tennis, East Germany, gold, 1
+2004, Swimming, Soviet Union, silver, 0
+2008, Football / Soccer, Sweden, silver, 2
+2012, Football / Soccer, France, gold, 6
+2016, Gymnastics, Sweden, bronze, 4
+2012, Volleyball, France, gold, 2
+2008, Football / Soccer, South Korea, gold, 4
+2012, Tennis, Australia, g, 3
+2012, Swimming, Switzerland, gold, 2
+2008, Gymnastics, Turkey, bronze, 0
+2012, Synchronized Swimming, Italy, silver, 4
+2008, Athletics, Belgium, bronze, 0
+2012, Volleyball, Russia, gold, 5
+2012, Gymnastics, Poland, silver, 0
+2016, Gymnastics, Russia, silver, 2
+2004, Synchronized Swimming, Australia, silver, 0
+2016, Volleyball, Turkey, bronze, 5
+2008, Rowing, Poland, gold, 0
+2004, Modern Pentathlon, Cuba, bronze, 0
+2004, Rowing, Bulgaria, b, 6
+2004, Swimming, Bulgaria, bronze, 1
+2016, Modern Pentathlon, Belgium, bronze, 3
+2012, Tennis, South Korea, gold, 3
+2008, Volleyball, Netherlands, s, 3
+2008, Swimming, Turkey, silver, 1
+2012, Synchronized Swimming, Belgium, bronze, 0
+2016, Athletics, Russia, gold, 3
+2008, Tennis, Russia, silver, 3
+2008, Tennis, Turkey, silver, 5
+2012, Modern Pentathlon, Switzerland, g, 2
+2016, Synchronized Swimming, Great Britain, bronze, 1
+2008, Cycling, Canada, gold, 6
+2016, Volleyball, Japan, silver, 5
+2012, Cycling, Russia, silver, 1
+2012, Football / Soccer, Poland, bronze, 3
+2008, Gymnastics, Japan, gold, 0
+2004, Tennis, China, gold, 3
+2004, Modern Pentathlon, Denemark, bronze, 1
+2004, Synchronized Swimming, Japan, gold, 1
+2004, Gymnastics, Soviet Union, gold, 0
+2004, Rowing, Norway, gold, 4
+2012, Gymnastics, Finland, gold, 5
+2016, Modern Pentathlon, East Germany, gold, 2
+2016, Gymnastics, France, silver, 6
+2008, Volleyball, United States, silver, 0
+2008, Rowing, Finland, gold, 0
+2012, Football / Soccer, Romania, bronze, 5
+2016, Swimming, Turkey, gold, 6
+2004, Tennis, Italy, gold, 1
+2004, Swimming, Czechoslovakia, silver, 1
+2004, Cycling, Romania, silver, 0
+2004, Tennis, Hungary, silver, 3
+2008, Rowing, Austria, gold, 5
+2004, Modern Pentathlon, Canada, gold, 3
+2004, Athletics, Netherlands, gold, 5
+2016, Rowing, Czechoslovakia, gold, 0
+2008, Synchronized Swimming, Australia, silver, 3
+2004, Rowing, Italy, gold, 4
+2008, Modern Pentathlon, Denemark, silver, 1
+2008, Cycling, Switzerland, gold, 5
+2004, Tennis, Canada, gold, 2
+2004, Athletics, Italy, silver, 1
+2008, Tennis, Romania, gold, 1
+2012, Athletics, Netherlands, silver, 4
+2016, Football / Soccer, Poland, silver, 5
+2016, Synchronized Swimming, Sweden, gold, 1
+2004, Volleyball, East Germany, bronze, 6
+2012, Cycling, Finland, bronze, 4
+2016, Tennis, Great Britain, silver, 0
+2012, Swimming, Hungary, gold, 5
+2004, Swimming, Great Britain, silver, 5
+2016, Gymnastics, East Germany, gold, 6
+2004, Football / Soccer, Hungary, silver, 6
+2016, Swimming, Turkey, bronze, 3
+2016, Synchronized Swimming, Norway, bronze, 3
+2012, Athletics, Denemark, silver, 4
+2008, Synchronized Swimming, Norway, bronze, 2
+2008, Swimming, Russia, gold, 0
+2016, Rowing, Czechoslovakia, bronze, 1
+2012, Football / Soccer, Switzerland, b, 1
+2012, Athletics, Poland, bronze, 3
+2012, Volleyball, Sweden, silver, 1
+2008, Tennis, Norway, gold, 6
+2012, Cycling, Romania, silver, 6
+2008, Volleyball, West Germany, silver, 3
+2008, Rowing, Russia, bronze, 0
+2008, Volleyball, Denemark, silver, 2
+2012, Modern Pentathlon, Austria, silver, 1
+2016, Tennis, Cuba, bronze, 3
+2012, Cycling, Belgium, silver, 2
+2016, Synchronized Swimming, Great Britain, silver, 0
+16, Gymnastics, Hungary, silver, 4
+2004, Athletics, Turkey, gold, 6
+2004, Synchronized Swimming, United States, silver, 4
+2016, Gymnastics, France, gold, 0
+2004, Volleyball, West Germany, gold, 2
+2012, Football / Soccer, Canada, b, 3
+2008, Gymnastics, Australia, bronze, 0
+2016, Rowing, Japan, silver, 3
+2016, Gymnastics, Soviet Union, silver, 4
+2008, Modern Pentathlon, South Korea, gold, 1
+2004, Athletics, Bulgaria, bronze, 2
+2016, Synchronized Swimming, Poland, bronze, 2
+2012, Modern Pentathlon, West Germany, silver, 5
+2008, Synchronized Swimming, Czechoslovakia, g, 6
+2008, Rowing, China, bronze, 4
+2004, Rowing, Soviet Union, g, 6
+2016, Rowing, East Germany, bronze, 3
+2012, Athletics, Austria, bronze, 6
+2004, Athletics, China, silver, 3
+2012, Modern Pentathlon, Australia, silver, 1
+2008, Tennis, Germany, gold, 4
+2012, Volleyball, Hungary, silver, 5
+2012, Cycling, Canada, gold, 1
+2016, Synchronized Swimming, Germany, bronze, 5
+2004, Cycling, Soviet Union, bronze, 1
+2016, Tennis, West Germany, gold, 1
+2016, Modern Pentathlon, Hungary, silver, 5
+2016, Tennis, Bulgaria, bronze, 5
+2004, Athletics, Czechoslovakia, bronze, 4
+2008, Cycling, Bulgaria, bronze, 5
+2004, Swimming, France, silver, 3
+2008, Cycling, Denemark, bronze, 3
+2004, Athletics, Austria, gold, 2
+2016, Football / Soccer, East Germany, bronze, 2
+2012, Athletics, Soviet Union, silver, 0
+2004, Rowing, Netherlands, gold, 4
+8, Tennis, Germany, silver, 0
+2004, Football / Soccer, Austria, silver, 0
+12, Rowing, Belgium, bronze, 3
+2008, Tennis, Czechoslovakia, silver, 3
+2016, Cycling, Soviet Union, silver, 5
+2012, Gymnastics, Commonwealth of Independent States, gold, 4
+2012, Volleyball, South Korea, gold, 6
+2004, Synchronized Swimming, East Germany, gold, 4
+2008, Modern Pentathlon, Germany, bronze, 4
+2004, Swimming, Canada, gold, 0
+2012, Cycling, Germany, bronze, 6
+2004, Football / Soccer, Switzerland, bronze, 2
+2008, Modern Pentathlon, Great Britain, gold, 6
+2012, Rowing, Turkey, gold, 1
+2004, Tennis, Denemark, silver, 2
+2012, Swimming, Italy, bronze, 1
+2016, Athletics, Sweden, s, 2
+2008, Tennis, Sweden, silver, 3
+2016, Football / Soccer, West Germany, gold, 0
+2004, Football / Soccer, Bulgaria, silver, 2
+2016, Football / Soccer, Russia, bronze, 6
+2008, Modern Pentathlon, Romania, bronze, 1
+2016, Athletics, Japan, silver, 6
+2008, Synchronized Swimming, Japan, silver, 0
+2008, Swimming, Sweden, gold, 0
+2004, Athletics, Finland, silver, 6
+2004, Swimming, Commonwealth of Independent States, bronze, 3
+2016, Modern Pentathlon, South Korea, bronze, 0
+2008, Football / Soccer, Norway, bronze, 2
+2008, Rowing, China, silver, 3
+2004, Athletics, South Korea, silver, 5
+2016, Cycling, Bulgaria, bronze, 5
+2004, Football / Soccer, Great Britain, bronze, 0
+2008, Swimming, Hungary, silver, 3
+2016, Gymnastics, Netherlands, gold, 2
+2008, Synchronized Swimming, Australia, bronze, 1
+2008, Rowing, Canada, bronze, 6
+2004, Athletics, Great Britain, silver, 2
+2012, Gymnastics, China, bronze, 3
+2008, Synchronized Swimming, Russia, bronze, 0
+2004, Tennis, Russia, bronze, 5
+2012, Volleyball, South Korea, bronze, 2
+2004, Swimming, Poland, bronze, 5
+2012, Cycling, Germany, gold, 6
+2016, Synchronized Swimming, East Germany, gold, 0
+2012, Tennis, Netherlands, bronze, 0
+2012, Tennis, Bulgaria, bronze, 6
+2004, Synchronized Swimming, West Germany, gold, 0
+2008, Athletics, Canada, gold, 4
+2016, Swimming, Poland, gold, 2
+2008, Modern Pentathlon, Canada, gold, 1
+2004, Rowing, Italy, silver, 2
+2008, Volleyball, Sweden, bronze, 2
+2012, Modern Pentathlon, Czechoslovakia, gold, 2
+2016, Swimming, Denemark, silver, 2
