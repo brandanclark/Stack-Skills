@@ -3596,5 +3596,3 @@
 2008, Modern Pentathlon, Canada, gold, 1
 2004, Rowing, Italy, silver, 2
 2008, Volleyball, Sweden, bronze, 2
-2008, Football / Soccer, Great Britain, bronze,
-2008, Rowing, Bulgaria, silver, 2.3
